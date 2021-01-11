@@ -2,140 +2,8 @@
   {
     "c_ref": "Atlantic",
     "totals": {
-      "Cases": 4096,
+      "Cases": 4386,
       "Deaths": 256
-    },
-    "daily": {
-      "Cases": 12,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Bergen",
-    "totals": {
-      "Cases": 22439,
-      "Deaths": 2045
-    },
-    "daily": {
-      "Cases": 33,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Burlington",
-    "totals": {
-      "Cases": 7145,
-      "Deaths": 496
-    },
-    "daily": {
-      "Cases": 18,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Camden",
-    "totals": {
-      "Cases": 9907,
-      "Deaths": 610
-    },
-    "daily": {
-      "Cases": 19,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Cape May",
-    "totals": {
-      "Cases": 1023,
-      "Deaths": 96
-    },
-    "daily": {
-      "Cases": 0,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Cumberland",
-    "totals": {
-      "Cases": 3790,
-      "Deaths": 159
-    },
-    "daily": {
-      "Cases": 6,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Essex",
-    "totals": {
-      "Cases": 21070,
-      "Deaths": 2129
-    },
-    "daily": {
-      "Cases": 16,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Gloucester",
-    "totals": {
-      "Cases": 4523,
-      "Deaths": 227
-    },
-    "daily": {
-      "Cases": 12,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Hudson",
-    "totals": {
-      "Cases": 20661,
-      "Deaths": 1516
-    },
-    "daily": {
-      "Cases": 18,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Hunterdon",
-    "totals": {
-      "Cases": 1324,
-      "Deaths": 125
-    },
-    "daily": {
-      "Cases": 3,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Mercer",
-    "totals": {
-      "Cases": 8643,
-      "Deaths": 636
-    },
-    "daily": {
-      "Cases": 6,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Middlesex",
-    "totals": {
-      "Cases": 19503,
-      "Deaths": 1425
-    },
-    "daily": {
-      "Cases": 59,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Monmouth",
-    "totals": {
-      "Cases": 11856,
-      "Deaths": 867
     },
     "daily": {
       "Cases": 29,
@@ -143,10 +11,54 @@
     }
   },
   {
-    "c_ref": "Morris",
+    "c_ref": "Bergen",
     "totals": {
-      "Cases": 7871,
-      "Deaths": 831
+      "Cases": 22975,
+      "Deaths": 2045
+    },
+    "daily": {
+      "Cases": 44,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Burlington",
+    "totals": {
+      "Cases": 7309,
+      "Deaths": 496
+    },
+    "daily": {
+      "Cases": 20,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Camden",
+    "totals": {
+      "Cases": 10112,
+      "Deaths": 610
+    },
+    "daily": {
+      "Cases": 24,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Cape May",
+    "totals": {
+      "Cases": 1439,
+      "Deaths": 96
+    },
+    "daily": {
+      "Cases": 3,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Cumberland",
+    "totals": {
+      "Cases": 3864,
+      "Deaths": 159
     },
     "daily": {
       "Cases": 11,
@@ -154,57 +66,145 @@
     }
   },
   {
+    "c_ref": "Essex",
+    "totals": {
+      "Cases": 21386,
+      "Deaths": 2129
+    },
+    "daily": {
+      "Cases": 18,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Gloucester",
+    "totals": {
+      "Cases": 4655,
+      "Deaths": 227
+    },
+    "daily": {
+      "Cases": 17,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Hudson",
+    "totals": {
+      "Cases": 21072,
+      "Deaths": 1516
+    },
+    "daily": {
+      "Cases": 23,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Hunterdon",
+    "totals": {
+      "Cases": 1395,
+      "Deaths": 125
+    },
+    "daily": {
+      "Cases": 5,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Mercer",
+    "totals": {
+      "Cases": 8700,
+      "Deaths": 636
+    },
+    "daily": {
+      "Cases": 8,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Middlesex",
+    "totals": {
+      "Cases": 19856,
+      "Deaths": 1425
+    },
+    "daily": {
+      "Cases": 62,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Monmouth",
+    "totals": {
+      "Cases": 12194,
+      "Deaths": 867
+    },
+    "daily": {
+      "Cases": 41,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Morris",
+    "totals": {
+      "Cases": 8154,
+      "Deaths": 831
+    },
+    "daily": {
+      "Cases": 19,
+      "Deaths": 0
+    }
+  },
+  {
     "c_ref": "Ocean",
     "totals": {
-      "Cases": 13402,
+      "Cases": 13806,
       "Deaths": 1048
     },
     "daily": {
-      "Cases": 244,
+      "Cases": 247,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Passaic",
     "totals": {
-      "Cases": 19023,
+      "Cases": 19261,
       "Deaths": 1255
     },
     "daily": {
-      "Cases": 19,
+      "Cases": 24,
       "Deaths": 1
     }
   },
   {
     "c_ref": "Salem",
     "totals": {
-      "Cases": 1068,
+      "Cases": 1087,
       "Deaths": 89
     },
     "daily": {
-      "Cases": 4,
+      "Cases": 5,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Somerset",
     "totals": {
-      "Cases": 5808,
+      "Cases": 6129,
       "Deaths": 573
     },
     "daily": {
-      "Cases": 10,
+      "Cases": 13,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Sussex",
     "totals": {
-      "Cases": 1502,
+      "Cases": 1547,
       "Deaths": 198
     },
     "daily": {
-      "Cases": 5,
+      "Cases": 6,
       "Deaths": 0
     }
   },
@@ -222,22 +222,22 @@
   {
     "c_ref": "Union",
     "totals": {
-      "Cases": 17671,
+      "Cases": 18131,
       "Deaths": 1355
     },
     "daily": {
-      "Cases": 30,
+      "Cases": 36,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Warren",
     "totals": {
-      "Cases": 1443,
+      "Cases": 1481,
       "Deaths": 171
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 3,
       "Deaths": 0
     }
   }
