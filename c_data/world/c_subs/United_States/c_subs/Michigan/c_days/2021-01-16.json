@@ -1,0 +1,959 @@
+[
+  {
+    "c_ref": "Alcona",
+    "totals": {
+      "Cases": 387,
+      "Deaths": 19
+    },
+    "daily": {
+      "Cases": 1,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Alger",
+    "totals": {
+      "Cases": 373,
+      "Deaths": 3
+    },
+    "daily": {
+      "Cases": 9,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Allegan",
+    "totals": {
+      "Cases": 6491,
+      "Deaths": 92
+    },
+    "daily": {
+      "Cases": 34,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Alpena",
+    "totals": {
+      "Cases": 1345,
+      "Deaths": 42
+    },
+    "daily": {
+      "Cases": 7,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Antrim",
+    "totals": {
+      "Cases": 783,
+      "Deaths": 16
+    },
+    "daily": {
+      "Cases": 4,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Arenac",
+    "totals": {
+      "Cases": 670,
+      "Deaths": 25
+    },
+    "daily": {
+      "Cases": 4,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Baraga",
+    "totals": {
+      "Cases": 570,
+      "Deaths": 29
+    },
+    "daily": {
+      "Cases": 1,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Barry",
+    "totals": {
+      "Cases": 3323,
+      "Deaths": 39
+    },
+    "daily": {
+      "Cases": 9,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Bay",
+    "totals": {
+      "Cases": 6845,
+      "Deaths": 236
+    },
+    "daily": {
+      "Cases": 31,
+      "Deaths": 6
+    }
+  },
+  {
+    "c_ref": "Benzie",
+    "totals": {
+      "Cases": 779,
+      "Deaths": 28
+    },
+    "daily": {
+      "Cases": 3,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Berrien",
+    "totals": {
+      "Cases": 10197,
+      "Deaths": 212
+    },
+    "daily": {
+      "Cases": 46,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Branch",
+    "totals": {
+      "Cases": 3429,
+      "Deaths": 75
+    },
+    "daily": {
+      "Cases": 20,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Calhoun",
+    "totals": {
+      "Cases": 8464,
+      "Deaths": 207
+    },
+    "daily": {
+      "Cases": 29,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Cass",
+    "totals": {
+      "Cases": 3547,
+      "Deaths": 56
+    },
+    "daily": {
+      "Cases": 15,
+      "Deaths": 2
+    }
+  },
+  {
+    "c_ref": "Charlevoix",
+    "totals": {
+      "Cases": 934,
+      "Deaths": 11
+    },
+    "daily": {
+      "Cases": 5,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Cheboygan",
+    "totals": {
+      "Cases": 832,
+      "Deaths": 33
+    },
+    "daily": {
+      "Cases": 5,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Chippewa",
+    "totals": {
+      "Cases": 1639,
+      "Deaths": 18
+    },
+    "daily": {
+      "Cases": 6,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Clare",
+    "totals": {
+      "Cases": 1378,
+      "Deaths": 57
+    },
+    "daily": {
+      "Cases": 4,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Clinton",
+    "totals": {
+      "Cases": 4455,
+      "Deaths": 51
+    },
+    "daily": {
+      "Cases": 3,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Crawford",
+    "totals": {
+      "Cases": 513,
+      "Deaths": 5
+    },
+    "daily": {
+      "Cases": 1,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Delta",
+    "totals": {
+      "Cases": 3015,
+      "Deaths": 79
+    },
+    "daily": {
+      "Cases": 4,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Dickinson",
+    "totals": {
+      "Cases": 2277,
+      "Deaths": 70
+    },
+    "daily": {
+      "Cases": 7,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Eaton",
+    "totals": {
+      "Cases": 5388,
+      "Deaths": 117
+    },
+    "daily": {
+      "Cases": 18,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Emmet",
+    "totals": {
+      "Cases": 1326,
+      "Deaths": 34
+    },
+    "daily": {
+      "Cases": 11,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Federal Correctional Institution (FCI)",
+    "totals": {
+      "Cases": 298,
+      "Deaths": 5
+    },
+    "daily": {
+      "Cases": 1,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Genesee",
+    "totals": {
+      "Cases": 23473,
+      "Deaths": 684
+    },
+    "daily": {
+      "Cases": 90,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Gladwin",
+    "totals": {
+      "Cases": 1334,
+      "Deaths": 36
+    },
+    "daily": {
+      "Cases": 2,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Gogebic",
+    "totals": {
+      "Cases": 1077,
+      "Deaths": 41
+    },
+    "daily": {
+      "Cases": 4,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Grand Traverse",
+    "totals": {
+      "Cases": 3643,
+      "Deaths": 53
+    },
+    "daily": {
+      "Cases": 25,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Gratiot",
+    "totals": {
+      "Cases": 2570,
+      "Deaths": 91
+    },
+    "daily": {
+      "Cases": 3,
+      "Deaths": 2
+    }
+  },
+  {
+    "c_ref": "Hillsdale",
+    "totals": {
+      "Cases": 2972,
+      "Deaths": 67
+    },
+    "daily": {
+      "Cases": 10,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Houghton",
+    "totals": {
+      "Cases": 2310,
+      "Deaths": 34
+    },
+    "daily": {
+      "Cases": 24,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Huron",
+    "totals": {
+      "Cases": 1789,
+      "Deaths": 52
+    },
+    "daily": {
+      "Cases": 10,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Ingham",
+    "totals": {
+      "Cases": 14026,
+      "Deaths": 234
+    },
+    "daily": {
+      "Cases": 54,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Ionia",
+    "totals": {
+      "Cases": 3801,
+      "Deaths": 57
+    },
+    "daily": {
+      "Cases": 7,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Iosco",
+    "totals": {
+      "Cases": 1203,
+      "Deaths": 57
+    },
+    "daily": {
+      "Cases": 4,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Iron",
+    "totals": {
+      "Cases": 886,
+      "Deaths": 37
+    },
+    "daily": {
+      "Cases": 5,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Isabella",
+    "totals": {
+      "Cases": 3722,
+      "Deaths": 60
+    },
+    "daily": {
+      "Cases": -2,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Jackson",
+    "totals": {
+      "Cases": 8504,
+      "Deaths": 194
+    },
+    "daily": {
+      "Cases": 30,
+      "Deaths": 4
+    }
+  },
+  {
+    "c_ref": "Kalamazoo",
+    "totals": {
+      "Cases": 13563,
+      "Deaths": 285
+    },
+    "daily": {
+      "Cases": 66,
+      "Deaths": 7
+    }
+  },
+  {
+    "c_ref": "Kalkaska",
+    "totals": {
+      "Cases": 524,
+      "Deaths": 14
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Kent",
+    "totals": {
+      "Cases": 47241,
+      "Deaths": 612
+    },
+    "daily": {
+      "Cases": 131,
+      "Deaths": 6
+    }
+  },
+  {
+    "c_ref": "Keweenaw",
+    "totals": {
+      "Cases": 115,
+      "Deaths": 2
+    },
+    "daily": {
+      "Cases": 7,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Lake",
+    "totals": {
+      "Cases": 334,
+      "Deaths": 10
+    },
+    "daily": {
+      "Cases": 2,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Lapeer",
+    "totals": {
+      "Cases": 4414,
+      "Deaths": 106
+    },
+    "daily": {
+      "Cases": 6,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Leelanau",
+    "totals": {
+      "Cases": 758,
+      "Deaths": 9
+    },
+    "daily": {
+      "Cases": 6,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Lenawee",
+    "totals": {
+      "Cases": 5184,
+      "Deaths": 84
+    },
+    "daily": {
+      "Cases": 41,
+      "Deaths": 6
+    }
+  },
+  {
+    "c_ref": "Livingston",
+    "totals": {
+      "Cases": 8959,
+      "Deaths": 95
+    },
+    "daily": {
+      "Cases": 41,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Luce",
+    "totals": {
+      "Cases": 198,
+      "Deaths": 0
+    },
+    "daily": {
+      "Cases": 1,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Mackinac",
+    "totals": {
+      "Cases": 402,
+      "Deaths": 3
+    },
+    "daily": {
+      "Cases": 2,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Macomb",
+    "totals": {
+      "Cases": 53400,
+      "Deaths": 1767
+    },
+    "daily": {
+      "Cases": 148,
+      "Deaths": 16
+    }
+  },
+  {
+    "c_ref": "Manistee",
+    "totals": {
+      "Cases": 703,
+      "Deaths": 18
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Marquette",
+    "totals": {
+      "Cases": 3783,
+      "Deaths": 53
+    },
+    "daily": {
+      "Cases": 6,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Mason",
+    "totals": {
+      "Cases": 1110,
+      "Deaths": 22
+    },
+    "daily": {
+      "Cases": 4,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Mecosta",
+    "totals": {
+      "Cases": 1792,
+      "Deaths": 15
+    },
+    "daily": {
+      "Cases": 5,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Menominee",
+    "totals": {
+      "Cases": 1795,
+      "Deaths": 36
+    },
+    "daily": {
+      "Cases": 3,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Michigan Department of Corrections (MDOC)",
+    "totals": {
+      "Cases": 22950,
+      "Deaths": 136
+    },
+    "daily": {
+      "Cases": 85,
+      "Deaths": 2
+    }
+  },
+  {
+    "c_ref": "Midland",
+    "totals": {
+      "Cases": 4497,
+      "Deaths": 53
+    },
+    "daily": {
+      "Cases": 23,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Missaukee",
+    "totals": {
+      "Cases": 603,
+      "Deaths": 13
+    },
+    "daily": {
+      "Cases": 1,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Monroe",
+    "totals": {
+      "Cases": 8603,
+      "Deaths": 174
+    },
+    "daily": {
+      "Cases": 33,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Montcalm",
+    "totals": {
+      "Cases": 3242,
+      "Deaths": 78
+    },
+    "daily": {
+      "Cases": 15,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Montmorency",
+    "totals": {
+      "Cases": 340,
+      "Deaths": 13
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Muskegon",
+    "totals": {
+      "Cases": 9992,
+      "Deaths": 281
+    },
+    "daily": {
+      "Cases": 34,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Newaygo",
+    "totals": {
+      "Cases": 2482,
+      "Deaths": 40
+    },
+    "daily": {
+      "Cases": 7,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Oakland",
+    "totals": {
+      "Cases": 67307,
+      "Deaths": 1809
+    },
+    "daily": {
+      "Cases": 321,
+      "Deaths": 17
+    }
+  },
+  {
+    "c_ref": "Oceana",
+    "totals": {
+      "Cases": 1739,
+      "Deaths": 44
+    },
+    "daily": {
+      "Cases": 7,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Ogemaw",
+    "totals": {
+      "Cases": 1000,
+      "Deaths": 31
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Ontonagon",
+    "totals": {
+      "Cases": 318,
+      "Deaths": 16
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Osceola",
+    "totals": {
+      "Cases": 943,
+      "Deaths": 20
+    },
+    "daily": {
+      "Cases": 1,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Oscoda",
+    "totals": {
+      "Cases": 337,
+      "Deaths": 19
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Otsego",
+    "totals": {
+      "Cases": 1070,
+      "Deaths": 25
+    },
+    "daily": {
+      "Cases": 3,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Ottawa",
+    "totals": {
+      "Cases": 20198,
+      "Deaths": 308
+    },
+    "daily": {
+      "Cases": 86,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Out of MI",
+    "totals": {
+      "Cases": 2444,
+      "Deaths": 11
+    },
+    "daily": {
+      "Cases": 17,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Presque Isle",
+    "totals": {
+      "Cases": 584,
+      "Deaths": 22
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Roscommon",
+    "totals": {
+      "Cases": 1043,
+      "Deaths": 28
+    },
+    "daily": {
+      "Cases": -1,
+      "Deaths": -1
+    }
+  },
+  {
+    "c_ref": "Saginaw",
+    "totals": {
+      "Cases": 13488,
+      "Deaths": 453
+    },
+    "daily": {
+      "Cases": -8,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Sanilac",
+    "totals": {
+      "Cases": 1722,
+      "Deaths": 70
+    },
+    "daily": {
+      "Cases": 13,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Schoolcraft",
+    "totals": {
+      "Cases": 246,
+      "Deaths": 5
+    },
+    "daily": {
+      "Cases": 1,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Shiawassee",
+    "totals": {
+      "Cases": 3328,
+      "Deaths": 65
+    },
+    "daily": {
+      "Cases": 13,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "St. Clair",
+    "totals": {
+      "Cases": 7870,
+      "Deaths": 204
+    },
+    "daily": {
+      "Cases": 24,
+      "Deaths": -1
+    }
+  },
+  {
+    "c_ref": "St. Joseph",
+    "totals": {
+      "Cases": 4117,
+      "Deaths": 67
+    },
+    "daily": {
+      "Cases": 33,
+      "Deaths": 2
+    }
+  },
+  {
+    "c_ref": "Tuscola",
+    "totals": {
+      "Cases": 2931,
+      "Deaths": 114
+    },
+    "daily": {
+      "Cases": 4,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Unassigned",
+    "totals": {
+      "Cases": 13,
+      "Deaths": 0
+    },
+    "daily": {
+      "Cases": -6,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Van Buren",
+    "totals": {
+      "Cases": 4506,
+      "Deaths": 91
+    },
+    "daily": {
+      "Cases": 14,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Washtenaw",
+    "totals": {
+      "Cases": 15413,
+      "Deaths": 218
+    },
+    "daily": {
+      "Cases": 69,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Wayne",
+    "totals": {
+      "Cases": 92449,
+      "Deaths": 3854
+    },
+    "daily": {
+      "Cases": 402,
+      "Deaths": 17
+    }
+  },
+  {
+    "c_ref": "Wexford",
+    "totals": {
+      "Cases": 1167,
+      "Deaths": 20
+    },
+    "daily": {
+      "Cases": 7,
+      "Deaths": 0
+    }
+  }
+]
