@@ -1,12 +1,34 @@
 [
   {
-    "c_ref": "Sussex",
+    "c_ref": "Kent",
     "totals": {
-      "Cases": 0,
-      "Deaths": 1
+      "Cases": 21,
+      "Deaths": 0
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 4,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "New Castle",
+    "totals": {
+      "Cases": 105,
+      "Deaths": 0
+    },
+    "daily": {
+      "Cases": 19,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Sussex",
+    "totals": {
+      "Cases": 37,
+      "Deaths": 0
+    },
+    "daily": {
+      "Cases": 10,
       "Deaths": 0
     }
   },
