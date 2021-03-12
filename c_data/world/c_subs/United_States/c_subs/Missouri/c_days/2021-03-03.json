@@ -1124,12 +1124,12 @@
   {
     "c_ref": "St. Louis City",
     "totals": {
-      "Cases": 21544,
+      "Cases": 21611,
       "Deaths": 425
     },
     "daily": {
-      "Cases": 65,
-      "Deaths": 1
+      "Cases": 40,
+      "Deaths": 0
     }
   },
   {
@@ -1195,6 +1195,17 @@
     },
     "daily": {
       "Cases": 1,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Unassigned",
+    "totals": {
+      "Cases": 80424,
+      "Deaths": 0
+    },
+    "daily": {
+      "Cases": 307,
       "Deaths": 0
     }
   },
