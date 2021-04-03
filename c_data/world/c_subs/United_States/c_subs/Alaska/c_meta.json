@@ -47,6 +47,21 @@
       "c_people": 2428
     },
     {
+      "c_ref": "Chugach",
+      "c_first": {
+        "Cases": "2020-05-06",
+        "Deaths": "2020-10-01"
+      },
+      "c_people": 0
+    },
+    {
+      "c_ref": "Copper River",
+      "c_first": {
+        "Cases": "2020-06-26"
+      },
+      "c_people": 0
+    },
+    {
       "c_ref": "Denali",
       "c_first": {
         "Cases": "2020-07-20"
@@ -206,14 +221,6 @@
         "Cases": "2020-04-08"
       },
       "c_people": 0
-    },
-    {
-      "c_ref": "Valdez-Cordova",
-      "c_first": {
-        "Cases": "2020-06-25",
-        "Deaths": "2020-10-15"
-      },
-      "c_people": 9202
     },
     {
       "c_ref": "Wrangell",
@@ -615,6 +622,7 @@
     "2021-03-29",
     "2021-03-30",
     "2021-03-31",
-    "2021-04-01"
+    "2021-04-01",
+    "2021-04-02"
   ]
 }
