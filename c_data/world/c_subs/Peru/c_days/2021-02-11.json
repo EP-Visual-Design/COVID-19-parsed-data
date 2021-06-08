@@ -3,51 +3,51 @@
     "c_ref": "Amazonas",
     "totals": {
       "Cases": 20119,
-      "Deaths": 295
+      "Deaths": 647
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 3
+      "Deaths": 4
     }
   },
   {
     "c_ref": "Ancash",
     "totals": {
       "Cases": 39176,
-      "Deaths": 1750
+      "Deaths": 3441
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 15
+      "Deaths": 11
     }
   },
   {
     "c_ref": "Apurimac",
     "totals": {
       "Cases": 10207,
-      "Deaths": 237
+      "Deaths": 555
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 8
+      "Deaths": 5
     }
   },
   {
     "c_ref": "Arequipa",
     "totals": {
       "Cases": 55877,
-      "Deaths": 1872
+      "Deaths": 5002
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 22
+      "Deaths": 34
     }
   },
   {
     "c_ref": "Ayacucho",
     "totals": {
       "Cases": 17592,
-      "Deaths": 447
+      "Deaths": 964
     },
     "daily": {
       "Cases": 0,
@@ -58,121 +58,121 @@
     "c_ref": "Cajamarca",
     "totals": {
       "Cases": 29842,
-      "Deaths": 725
+      "Deaths": 1872
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 7
+      "Deaths": 8
     }
   },
   {
     "c_ref": "Callao",
     "totals": {
       "Cases": 51292,
-      "Deaths": 2259
+      "Deaths": 6101
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 27
+      "Deaths": 44
     }
   },
   {
     "c_ref": "Cusco",
     "totals": {
       "Cases": 30820,
-      "Deaths": 653
+      "Deaths": 1953
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 11
+      "Deaths": 15
     }
   },
   {
     "c_ref": "Huancavelica",
     "totals": {
       "Cases": 8844,
-      "Deaths": 193
+      "Deaths": 499
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 2
+      "Deaths": 8
     }
   },
   {
     "c_ref": "Huanuco",
     "totals": {
       "Cases": 24036,
-      "Deaths": 694
+      "Deaths": 1663
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 14
+      "Deaths": 18
     }
   },
   {
     "c_ref": "Ica",
     "totals": {
       "Cases": 37642,
-      "Deaths": 2059
+      "Deaths": 4584
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 25
+      "Deaths": 38
     }
   },
   {
     "c_ref": "Junin",
     "totals": {
       "Cases": 37876,
-      "Deaths": 1289
+      "Deaths": 3272
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 21
+      "Deaths": 32
     }
   },
   {
     "c_ref": "La Libertad",
     "totals": {
       "Cases": 41459,
-      "Deaths": 2703
+      "Deaths": 5478
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 17
+      "Deaths": 31
     }
   },
   {
     "c_ref": "Lambayeque",
     "totals": {
       "Cases": 36626,
-      "Deaths": 2078
+      "Deaths": 5173
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 4
+      "Deaths": 15
     }
   },
   {
     "c_ref": "Lima",
     "totals": {
       "Cases": 542219,
-      "Deaths": 18825
+      "Deaths": 50108
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 164
+      "Deaths": 303
     }
   },
   {
     "c_ref": "Loreto",
     "totals": {
       "Cases": 28021,
-      "Deaths": 1085
+      "Deaths": 2972
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 11
+      "Deaths": 15
     }
   },
   {
@@ -190,51 +190,18 @@
     "c_ref": "Moquegua",
     "totals": {
       "Cases": 18614,
-      "Deaths": 436
+      "Deaths": 1070
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 4
+      "Deaths": 3
     }
   },
   {
     "c_ref": "Pasco",
     "totals": {
       "Cases": 8477,
-      "Deaths": 201
-    },
-    "daily": {
-      "Cases": 0,
-      "Deaths": 4
-    }
-  },
-  {
-    "c_ref": "Piura",
-    "totals": {
-      "Cases": 47441,
-      "Deaths": 2347
-    },
-    "daily": {
-      "Cases": 0,
-      "Deaths": 4
-    }
-  },
-  {
-    "c_ref": "Puno",
-    "totals": {
-      "Cases": 21972,
-      "Deaths": 521
-    },
-    "daily": {
-      "Cases": 0,
-      "Deaths": 16
-    }
-  },
-  {
-    "c_ref": "San Martin",
-    "totals": {
-      "Cases": 28256,
-      "Deaths": 854
+      "Deaths": 513
     },
     "daily": {
       "Cases": 0,
@@ -242,36 +209,69 @@
     }
   },
   {
-    "c_ref": "Tacna",
+    "c_ref": "Piura",
     "totals": {
-      "Cases": 17939,
-      "Deaths": 481
+      "Cases": 47441,
+      "Deaths": 7148
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 16
+      "Deaths": 17
+    }
+  },
+  {
+    "c_ref": "Puno",
+    "totals": {
+      "Cases": 21972,
+      "Deaths": 1909
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 23
+    }
+  },
+  {
+    "c_ref": "San Martin",
+    "totals": {
+      "Cases": 28256,
+      "Deaths": 1711
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Tacna",
+    "totals": {
+      "Cases": 17939,
+      "Deaths": 1103
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 12
     }
   },
   {
     "c_ref": "Tumbes",
     "totals": {
       "Cases": 10701,
-      "Deaths": 412
+      "Deaths": 879
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 5
+      "Deaths": 6
     }
   },
   {
     "c_ref": "Ucayali",
     "totals": {
       "Cases": 21882,
-      "Deaths": 461
+      "Deaths": 1741
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 7
+      "Deaths": 4
     }
   },
   {
