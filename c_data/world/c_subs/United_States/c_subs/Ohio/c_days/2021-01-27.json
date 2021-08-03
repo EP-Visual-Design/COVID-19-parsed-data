@@ -454,7 +454,7 @@
     "c_ref": "Knox",
     "totals": {
       "Cases": 3606,
-      "Deaths": 96
+      "Deaths": 95
     },
     "daily": {
       "Cases": 22,
@@ -509,11 +509,11 @@
     "c_ref": "Lorain",
     "totals": {
       "Cases": 19563,
-      "Deaths": 408
+      "Deaths": 409
     },
     "daily": {
       "Cases": 185,
-      "Deaths": 4
+      "Deaths": 5
     }
   },
   {
@@ -828,7 +828,7 @@
     "c_ref": "Stark",
     "totals": {
       "Cases": 26411,
-      "Deaths": 803
+      "Deaths": 804
     },
     "daily": {
       "Cases": 164,
@@ -861,11 +861,22 @@
     "c_ref": "Tuscarawas",
     "totals": {
       "Cases": 7510,
-      "Deaths": 219
+      "Deaths": 220
     },
     "daily": {
       "Cases": 55,
       "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Unassigned",
+    "totals": {
+      "Cases": 0,
+      "Deaths": 1
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
     }
   },
   {

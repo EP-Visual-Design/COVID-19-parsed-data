@@ -454,7 +454,7 @@
     "c_ref": "Knox",
     "totals": {
       "Cases": 3561,
-      "Deaths": 96
+      "Deaths": 95
     },
     "daily": {
       "Cases": 17,
@@ -828,7 +828,7 @@
     "c_ref": "Stark",
     "totals": {
       "Cases": 26096,
-      "Deaths": 798
+      "Deaths": 799
     },
     "daily": {
       "Cases": 163,
@@ -861,10 +861,21 @@
     "c_ref": "Tuscarawas",
     "totals": {
       "Cases": 7440,
-      "Deaths": 216
+      "Deaths": 217
     },
     "daily": {
       "Cases": 30,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Unassigned",
+    "totals": {
+      "Cases": 0,
+      "Deaths": 1
+    },
+    "daily": {
+      "Cases": 0,
       "Deaths": 0
     }
   },
