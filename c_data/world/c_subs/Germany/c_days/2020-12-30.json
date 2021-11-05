@@ -14,17 +14,17 @@
     "c_ref": "Bayern",
     "totals": {
       "Cases": 324937,
-      "Deaths": 6716
+      "Deaths": 6717
     },
     "daily": {
-      "Cases": 6598,
+      "Cases": 6567,
       "Deaths": 167
     }
   },
   {
     "c_ref": "Berlin",
     "totals": {
-      "Cases": 96799,
+      "Cases": 96802,
       "Deaths": 1247
     },
     "daily": {
@@ -50,8 +50,8 @@
       "Deaths": 194
     },
     "daily": {
-      "Cases": 164,
-      "Deaths": 3
+      "Cases": 308,
+      "Deaths": 8
     }
   },
   {
@@ -72,7 +72,7 @@
       "Deaths": 2845
     },
     "daily": {
-      "Cases": 3102,
+      "Cases": 3101,
       "Deaths": 134
     }
   },
@@ -90,7 +90,7 @@
   {
     "c_ref": "Niedersachsen",
     "totals": {
-      "Cases": 106789,
+      "Cases": 106792,
       "Deaths": 1967
     },
     "daily": {
@@ -102,21 +102,21 @@
     "c_ref": "Nordrhein-Westfalen",
     "totals": {
       "Cases": 393185,
-      "Deaths": 6552
+      "Deaths": 6602
     },
     "daily": {
       "Cases": 5748,
-      "Deaths": 101
+      "Deaths": 151
     }
   },
   {
     "c_ref": "Rheinland-Pfalz",
     "totals": {
-      "Cases": 72025,
+      "Cases": 72047,
       "Deaths": 1428
     },
     "daily": {
-      "Cases": 1276,
+      "Cases": 1293,
       "Deaths": 50
     }
   },
@@ -134,11 +134,11 @@
   {
     "c_ref": "Sachsen",
     "totals": {
-      "Cases": 132356,
+      "Cases": 132421,
       "Deaths": 3139
     },
     "daily": {
-      "Cases": 3571,
+      "Cases": 3633,
       "Deaths": 136
     }
   },
@@ -173,17 +173,6 @@
     "daily": {
       "Cases": 1376,
       "Deaths": 38
-    }
-  },
-  {
-    "c_ref": "Unknown",
-    "totals": {
-      "Cases": 17550,
-      "Deaths": 0
-    },
-    "daily": {
-      "Cases": 16834,
-      "Deaths": 0
     }
   }
 ]
