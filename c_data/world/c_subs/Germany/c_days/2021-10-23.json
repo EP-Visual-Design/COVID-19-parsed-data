@@ -35,23 +35,23 @@
   {
     "c_ref": "Brandenburg",
     "totals": {
-      "Cases": 121614,
+      "Cases": 121615,
       "Deaths": 3897
     },
     "daily": {
-      "Cases": 281,
+      "Cases": 282,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Bremen",
     "totals": {
-      "Cases": 34829,
-      "Deaths": 527
+      "Cases": 34822,
+      "Deaths": 525
     },
     "daily": {
-      "Cases": 59,
-      "Deaths": 2
+      "Cases": 52,
+      "Deaths": 0
     }
   },
   {
@@ -79,11 +79,11 @@
   {
     "c_ref": "Mecklenburg-Vorpommern",
     "totals": {
-      "Cases": 51900,
+      "Cases": 51799,
       "Deaths": 1224
     },
     "daily": {
-      "Cases": 101,
+      "Cases": 0,
       "Deaths": 0
     }
   },
@@ -135,11 +135,11 @@
     "c_ref": "Sachsen",
     "totals": {
       "Cases": 315219,
-      "Deaths": 10283
+      "Deaths": 10284
     },
     "daily": {
       "Cases": 1428,
-      "Deaths": -1
+      "Deaths": 0
     }
   },
   {
@@ -173,17 +173,6 @@
     "daily": {
       "Cases": 666,
       "Deaths": 1
-    }
-  },
-  {
-    "c_ref": "Unknown",
-    "totals": {
-      "Cases": 9907,
-      "Deaths": 0
-    },
-    "daily": {
-      "Cases": 367,
-      "Deaths": 0
     }
   }
 ]
