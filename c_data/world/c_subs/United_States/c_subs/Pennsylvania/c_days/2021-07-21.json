@@ -2,8 +2,41 @@
   {
     "c_ref": "Adams",
     "totals": {
-      "Cases": 9817,
+      "Cases": 9809,
       "Deaths": 189
+    },
+    "daily": {
+      "Cases": 10,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Allegheny",
+    "totals": {
+      "Cases": 103093,
+      "Deaths": 2025
+    },
+    "daily": {
+      "Cases": 59,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Armstrong",
+    "totals": {
+      "Cases": 6050,
+      "Deaths": 148
+    },
+    "daily": {
+      "Cases": 2,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Beaver",
+    "totals": {
+      "Cases": 15728,
+      "Deaths": 390
     },
     "daily": {
       "Cases": 8,
@@ -11,57 +44,24 @@
     }
   },
   {
-    "c_ref": "Allegheny",
-    "totals": {
-      "Cases": 103145,
-      "Deaths": 2025
-    },
-    "daily": {
-      "Cases": 52,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Armstrong",
-    "totals": {
-      "Cases": 6051,
-      "Deaths": 148
-    },
-    "daily": {
-      "Cases": 1,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Beaver",
-    "totals": {
-      "Cases": 15734,
-      "Deaths": 390
-    },
-    "daily": {
-      "Cases": 6,
-      "Deaths": 0
-    }
-  },
-  {
     "c_ref": "Bedford",
     "totals": {
-      "Cases": 4785,
+      "Cases": 4784,
       "Deaths": 142
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Berks",
     "totals": {
-      "Cases": 49057,
+      "Cases": 49043,
       "Deaths": 1044
     },
     "daily": {
-      "Cases": 14,
+      "Cases": 21,
       "Deaths": 0
     }
   },
@@ -72,37 +72,15 @@
       "Deaths": 344
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 3,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Bradford",
     "totals": {
-      "Cases": 6203,
+      "Cases": 6202,
       "Deaths": 96
-    },
-    "daily": {
-      "Cases": 1,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Bucks",
-    "totals": {
-      "Cases": 61376,
-      "Deaths": 1334
-    },
-    "daily": {
-      "Cases": 36,
-      "Deaths": 1
-    }
-  },
-  {
-    "c_ref": "Butler",
-    "totals": {
-      "Cases": 17854,
-      "Deaths": 423
     },
     "daily": {
       "Cases": 3,
@@ -110,13 +88,35 @@
     }
   },
   {
+    "c_ref": "Bucks",
+    "totals": {
+      "Cases": 61340,
+      "Deaths": 1334
+    },
+    "daily": {
+      "Cases": 33,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Butler",
+    "totals": {
+      "Cases": 17851,
+      "Deaths": 423
+    },
+    "daily": {
+      "Cases": 8,
+      "Deaths": 0
+    }
+  },
+  {
     "c_ref": "Cambria",
     "totals": {
-      "Cases": 15073,
+      "Cases": 15071,
       "Deaths": 441
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 3,
       "Deaths": 0
     }
   },
@@ -127,73 +127,73 @@
       "Deaths": 9
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 2,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Carbon",
     "totals": {
-      "Cases": 6473,
+      "Cases": 6471,
       "Deaths": 176
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 3,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Centre",
     "totals": {
-      "Cases": 17247,
+      "Cases": 17234,
       "Deaths": 228
     },
     "daily": {
-      "Cases": 13,
+      "Cases": 10,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Chester",
     "totals": {
-      "Cases": 41214,
+      "Cases": 41196,
       "Deaths": 825
     },
     "daily": {
-      "Cases": 18,
+      "Cases": 25,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Clarion",
     "totals": {
-      "Cases": 3248,
+      "Cases": 3246,
       "Deaths": 96
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 1,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Clearfield",
     "totals": {
-      "Cases": 8745,
+      "Cases": 8743,
       "Deaths": 156
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 4,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Clinton",
     "totals": {
-      "Cases": 3742,
+      "Cases": 3740,
       "Deaths": 68
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 0,
       "Deaths": 0
     }
   },
@@ -204,14 +204,14 @@
       "Deaths": 136
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 1,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Crawford",
     "totals": {
-      "Cases": 7713,
+      "Cases": 7711,
       "Deaths": 157
     },
     "daily": {
@@ -222,18 +222,18 @@
   {
     "c_ref": "Cumberland",
     "totals": {
-      "Cases": 20995,
+      "Cases": 20981,
       "Deaths": 527
     },
     "daily": {
-      "Cases": 14,
+      "Cases": 15,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Dauphin",
     "totals": {
-      "Cases": 26512,
+      "Cases": 26501,
       "Deaths": 562
     },
     "daily": {
@@ -244,11 +244,11 @@
   {
     "c_ref": "Delaware",
     "totals": {
-      "Cases": 52905,
+      "Cases": 52870,
       "Deaths": 1419
     },
     "daily": {
-      "Cases": 35,
+      "Cases": 25,
       "Deaths": 1
     }
   },
@@ -259,29 +259,29 @@
       "Deaths": 41
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 1,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Erie",
     "totals": {
-      "Cases": 21412,
+      "Cases": 21408,
       "Deaths": 419
     },
     "daily": {
-      "Cases": 4,
+      "Cases": 6,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Fayette",
     "totals": {
-      "Cases": 13630,
+      "Cases": 13628,
       "Deaths": 333
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 4,
       "Deaths": 2
     }
   },
@@ -299,7 +299,7 @@
   {
     "c_ref": "Franklin",
     "totals": {
-      "Cases": 15679,
+      "Cases": 15676,
       "Deaths": 376
     },
     "daily": {
@@ -310,18 +310,18 @@
   {
     "c_ref": "Fulton",
     "totals": {
-      "Cases": 1399,
+      "Cases": 1397,
       "Deaths": 16
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Greene",
     "totals": {
-      "Cases": 3395,
+      "Cases": 3393,
       "Deaths": 42
     },
     "daily": {
@@ -332,7 +332,7 @@
   {
     "c_ref": "Huntingdon",
     "totals": {
-      "Cases": 5289,
+      "Cases": 5287,
       "Deaths": 136
     },
     "daily": {
@@ -343,7 +343,7 @@
   {
     "c_ref": "Indiana",
     "totals": {
-      "Cases": 6503,
+      "Cases": 6501,
       "Deaths": 179
     },
     "daily": {
@@ -354,7 +354,7 @@
   {
     "c_ref": "Jefferson",
     "totals": {
-      "Cases": 3368,
+      "Cases": 3367,
       "Deaths": 99
     },
     "daily": {
@@ -365,52 +365,19 @@
   {
     "c_ref": "Juniata",
     "totals": {
-      "Cases": 2176,
+      "Cases": 2175,
       "Deaths": 88
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Lackawanna",
     "totals": {
-      "Cases": 18785,
+      "Cases": 18779,
       "Deaths": 484
-    },
-    "daily": {
-      "Cases": 6,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Lancaster",
-    "totals": {
-      "Cases": 55976,
-      "Deaths": 1171
-    },
-    "daily": {
-      "Cases": 31,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Lawrence",
-    "totals": {
-      "Cases": 7812,
-      "Deaths": 216
-    },
-    "daily": {
-      "Cases": 6,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Lebanon",
-    "totals": {
-      "Cases": 16391,
-      "Deaths": 295
     },
     "daily": {
       "Cases": 5,
@@ -418,32 +385,32 @@
     }
   },
   {
-    "c_ref": "Lehigh",
+    "c_ref": "Lancaster",
     "totals": {
-      "Cases": 40291,
-      "Deaths": 865
+      "Cases": 55945,
+      "Deaths": 1171
     },
     "daily": {
-      "Cases": 15,
-      "Deaths": 1
-    }
-  },
-  {
-    "c_ref": "Luzerne",
-    "totals": {
-      "Cases": 32419,
-      "Deaths": 830
-    },
-    "daily": {
-      "Cases": 20,
+      "Cases": 27,
       "Deaths": 0
     }
   },
   {
-    "c_ref": "Lycoming",
+    "c_ref": "Lawrence",
     "totals": {
-      "Cases": 12137,
-      "Deaths": 298
+      "Cases": 7806,
+      "Deaths": 216
+    },
+    "daily": {
+      "Cases": 7,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Lebanon",
+    "totals": {
+      "Cases": 16386,
+      "Deaths": 295
     },
     "daily": {
       "Cases": 4,
@@ -451,20 +418,53 @@
     }
   },
   {
+    "c_ref": "Lehigh",
+    "totals": {
+      "Cases": 40276,
+      "Deaths": 865
+    },
+    "daily": {
+      "Cases": 21,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Luzerne",
+    "totals": {
+      "Cases": 32399,
+      "Deaths": 830
+    },
+    "daily": {
+      "Cases": 16,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Lycoming",
+    "totals": {
+      "Cases": 12133,
+      "Deaths": 298
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
     "c_ref": "McKean",
     "totals": {
-      "Cases": 3866,
+      "Cases": 3864,
       "Deaths": 75
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Mercer",
     "totals": {
-      "Cases": 9824,
+      "Cases": 9823,
       "Deaths": 266
     },
     "daily": {
@@ -486,62 +486,62 @@
   {
     "c_ref": "Monroe",
     "totals": {
-      "Cases": 15021,
+      "Cases": 15002,
       "Deaths": 322
     },
     "daily": {
-      "Cases": 19,
+      "Cases": 10,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Montgomery",
     "totals": {
-      "Cases": 71115,
+      "Cases": 71061,
       "Deaths": 1739
     },
     "daily": {
-      "Cases": 54,
+      "Cases": 40,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Montour",
     "totals": {
-      "Cases": 2069,
+      "Cases": 2068,
       "Deaths": 67
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Northampton",
     "totals": {
-      "Cases": 36337,
+      "Cases": 36319,
       "Deaths": 719
     },
     "daily": {
-      "Cases": 18,
+      "Cases": 24,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Northumberland",
     "totals": {
-      "Cases": 9861,
+      "Cases": 9859,
       "Deaths": 365
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 3,
       "Deaths": 1
     }
   },
   {
     "c_ref": "Perry",
     "totals": {
-      "Cases": 3899,
+      "Cases": 3898,
       "Deaths": 101
     },
     "daily": {
@@ -552,22 +552,22 @@
   {
     "c_ref": "Philadelphia",
     "totals": {
-      "Cases": 157362,
+      "Cases": 157261,
       "Deaths": 3776
     },
     "daily": {
-      "Cases": 101,
+      "Cases": 73,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Pike",
     "totals": {
-      "Cases": 4097,
+      "Cases": 4092,
       "Deaths": 54
     },
     "daily": {
-      "Cases": 5,
+      "Cases": 0,
       "Deaths": 0
     }
   },
@@ -578,18 +578,18 @@
       "Deaths": 25
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 1,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Schuylkill",
     "totals": {
-      "Cases": 15024,
+      "Cases": 15020,
       "Deaths": 413
     },
     "daily": {
-      "Cases": 4,
+      "Cases": 11,
       "Deaths": 0
     }
   },
@@ -600,7 +600,7 @@
       "Deaths": 86
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 1,
       "Deaths": 0
     }
   },
@@ -611,7 +611,7 @@
       "Deaths": 219
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 3,
       "Deaths": 0
     }
   },
@@ -644,29 +644,29 @@
       "Deaths": 112
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 1,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Union",
     "totals": {
-      "Cases": 6198,
+      "Cases": 6196,
       "Deaths": 89
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Venango",
     "totals": {
-      "Cases": 4164,
+      "Cases": 4163,
       "Deaths": 102
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
@@ -677,26 +677,48 @@
       "Deaths": 106
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 3,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Washington",
     "totals": {
-      "Cases": 18167,
+      "Cases": 18166,
       "Deaths": 312
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 10,
       "Deaths": 1
     }
   },
   {
     "c_ref": "Wayne",
     "totals": {
-      "Cases": 4207,
+      "Cases": 4205,
       "Deaths": 84
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Westmoreland",
+    "totals": {
+      "Cases": 35036,
+      "Deaths": 781
+    },
+    "daily": {
+      "Cases": 11,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Wyoming",
+    "totals": {
+      "Cases": 2023,
+      "Deaths": 54
     },
     "daily": {
       "Cases": 2,
@@ -704,35 +726,13 @@
     }
   },
   {
-    "c_ref": "Westmoreland",
-    "totals": {
-      "Cases": 35050,
-      "Deaths": 781
-    },
-    "daily": {
-      "Cases": 14,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Wyoming",
-    "totals": {
-      "Cases": 2028,
-      "Deaths": 54
-    },
-    "daily": {
-      "Cases": 5,
-      "Deaths": 0
-    }
-  },
-  {
     "c_ref": "York",
     "totals": {
-      "Cases": 47822,
+      "Cases": 47799,
       "Deaths": 836
     },
     "daily": {
-      "Cases": 23,
+      "Cases": 24,
       "Deaths": 0
     }
   }
