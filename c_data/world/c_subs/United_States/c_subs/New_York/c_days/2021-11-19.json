@@ -1,0 +1,706 @@
+[
+  {
+    "c_ref": "Albany",
+    "totals": {
+      "Cases": 33316,
+      "Deaths": 405
+    },
+    "daily": {
+      "Cases": 114,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Allegany",
+    "totals": {
+      "Cases": 5669,
+      "Deaths": 114
+    },
+    "daily": {
+      "Cases": 47,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Bronx",
+    "totals": {
+      "Cases": 211445,
+      "Deaths": 6795
+    },
+    "daily": {
+      "Cases": 205,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Brooklyn",
+    "totals": {
+      "Cases": 344914,
+      "Deaths": 10937
+    },
+    "daily": {
+      "Cases": 524,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Broome",
+    "totals": {
+      "Cases": 27208,
+      "Deaths": 429
+    },
+    "daily": {
+      "Cases": 149,
+      "Deaths": 4
+    }
+  },
+  {
+    "c_ref": "Cattaraugus",
+    "totals": {
+      "Cases": 9336,
+      "Deaths": 149
+    },
+    "daily": {
+      "Cases": 84,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Cayuga",
+    "totals": {
+      "Cases": 9412,
+      "Deaths": 111
+    },
+    "daily": {
+      "Cases": 34,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Chautauqua",
+    "totals": {
+      "Cases": 14017,
+      "Deaths": 187
+    },
+    "daily": {
+      "Cases": 113,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Chemung",
+    "totals": {
+      "Cases": 12274,
+      "Deaths": 171
+    },
+    "daily": {
+      "Cases": 72,
+      "Deaths": 2
+    }
+  },
+  {
+    "c_ref": "Chenango",
+    "totals": {
+      "Cases": 5278,
+      "Deaths": 94
+    },
+    "daily": {
+      "Cases": 52,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Clinton",
+    "totals": {
+      "Cases": 7684,
+      "Deaths": 44
+    },
+    "daily": {
+      "Cases": 44,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Columbia",
+    "totals": {
+      "Cases": 5436,
+      "Deaths": 113
+    },
+    "daily": {
+      "Cases": 28,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Cortland",
+    "totals": {
+      "Cases": 5921,
+      "Deaths": 87
+    },
+    "daily": {
+      "Cases": 24,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Delaware",
+    "totals": {
+      "Cases": 4137,
+      "Deaths": 51
+    },
+    "daily": {
+      "Cases": 49,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Dutchess",
+    "totals": {
+      "Cases": 37201,
+      "Deaths": 505
+    },
+    "daily": {
+      "Cases": 101,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Erie",
+    "totals": {
+      "Cases": 118219,
+      "Deaths": 2017
+    },
+    "daily": {
+      "Cases": 669,
+      "Deaths": 4
+    }
+  },
+  {
+    "c_ref": "Essex",
+    "totals": {
+      "Cases": 2840,
+      "Deaths": 37
+    },
+    "daily": {
+      "Cases": 35,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Franklin",
+    "totals": {
+      "Cases": 5056,
+      "Deaths": 25
+    },
+    "daily": {
+      "Cases": 44,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Fulton",
+    "totals": {
+      "Cases": 7449,
+      "Deaths": 108
+    },
+    "daily": {
+      "Cases": 56,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Genesee",
+    "totals": {
+      "Cases": 8124,
+      "Deaths": 142
+    },
+    "daily": {
+      "Cases": 61,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Greene",
+    "totals": {
+      "Cases": 4741,
+      "Deaths": 87
+    },
+    "daily": {
+      "Cases": 24,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Hamilton",
+    "totals": {
+      "Cases": 500,
+      "Deaths": 3
+    },
+    "daily": {
+      "Cases": 3,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Herkimer",
+    "totals": {
+      "Cases": 7870,
+      "Deaths": 138
+    },
+    "daily": {
+      "Cases": 64,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Jefferson",
+    "totals": {
+      "Cases": 10672,
+      "Deaths": 101
+    },
+    "daily": {
+      "Cases": 108,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Lewis",
+    "totals": {
+      "Cases": 4015,
+      "Deaths": 39
+    },
+    "daily": {
+      "Cases": 25,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Livingston",
+    "totals": {
+      "Cases": 6757,
+      "Deaths": 74
+    },
+    "daily": {
+      "Cases": 59,
+      "Deaths": 2
+    }
+  },
+  {
+    "c_ref": "Madison",
+    "totals": {
+      "Cases": 7030,
+      "Deaths": 107
+    },
+    "daily": {
+      "Cases": 36,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Manhattan",
+    "totals": {
+      "Cases": 173678,
+      "Deaths": 4656
+    },
+    "daily": {
+      "Cases": 326,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Monroe",
+    "totals": {
+      "Cases": 93377,
+      "Deaths": 1233
+    },
+    "daily": {
+      "Cases": 463,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Montgomery",
+    "totals": {
+      "Cases": 6849,
+      "Deaths": 159
+    },
+    "daily": {
+      "Cases": 41,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Nassau",
+    "totals": {
+      "Cases": 221437,
+      "Deaths": 3322
+    },
+    "daily": {
+      "Cases": 407,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Niagara",
+    "totals": {
+      "Cases": 27026,
+      "Deaths": 413
+    },
+    "daily": {
+      "Cases": 171,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Oneida",
+    "totals": {
+      "Cases": 31720,
+      "Deaths": 622
+    },
+    "daily": {
+      "Cases": 160,
+      "Deaths": 4
+    }
+  },
+  {
+    "c_ref": "Onondaga",
+    "totals": {
+      "Cases": 57247,
+      "Deaths": 801
+    },
+    "daily": {
+      "Cases": 285,
+      "Deaths": 2
+    }
+  },
+  {
+    "c_ref": "Ontario",
+    "totals": {
+      "Cases": 11018,
+      "Deaths": 114
+    },
+    "daily": {
+      "Cases": 91,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Orange",
+    "totals": {
+      "Cases": 60561,
+      "Deaths": 936
+    },
+    "daily": {
+      "Cases": 160,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Orleans",
+    "totals": {
+      "Cases": 5190,
+      "Deaths": 93
+    },
+    "daily": {
+      "Cases": 36,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Oswego",
+    "totals": {
+      "Cases": 13437,
+      "Deaths": 129
+    },
+    "daily": {
+      "Cases": 80,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Otsego",
+    "totals": {
+      "Cases": 5079,
+      "Deaths": 59
+    },
+    "daily": {
+      "Cases": 32,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Out of NY",
+    "totals": {
+      "Cases": 0,
+      "Deaths": 333
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Putnam",
+    "totals": {
+      "Cases": 12905,
+      "Deaths": 100
+    },
+    "daily": {
+      "Cases": 30,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Queens",
+    "totals": {
+      "Cases": 322390,
+      "Deaths": 10384
+    },
+    "daily": {
+      "Cases": 398,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Rensselaer",
+    "totals": {
+      "Cases": 16540,
+      "Deaths": 189
+    },
+    "daily": {
+      "Cases": 74,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Rockland",
+    "totals": {
+      "Cases": 54756,
+      "Deaths": 782
+    },
+    "daily": {
+      "Cases": 70,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Saratoga",
+    "totals": {
+      "Cases": 23037,
+      "Deaths": 218
+    },
+    "daily": {
+      "Cases": 183,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Schenectady",
+    "totals": {
+      "Cases": 18479,
+      "Deaths": 237
+    },
+    "daily": {
+      "Cases": 84,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Schoharie",
+    "totals": {
+      "Cases": 2532,
+      "Deaths": 24
+    },
+    "daily": {
+      "Cases": 14,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Schuyler",
+    "totals": {
+      "Cases": 1795,
+      "Deaths": 20
+    },
+    "daily": {
+      "Cases": 17,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Seneca",
+    "totals": {
+      "Cases": 3025,
+      "Deaths": 65
+    },
+    "daily": {
+      "Cases": 16,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "St. Lawrence",
+    "totals": {
+      "Cases": 12192,
+      "Deaths": 142
+    },
+    "daily": {
+      "Cases": 80,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Staten Island",
+    "totals": {
+      "Cases": 91384,
+      "Deaths": 1964
+    },
+    "daily": {
+      "Cases": 117,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Steuben",
+    "totals": {
+      "Cases": 11744,
+      "Deaths": 186
+    },
+    "daily": {
+      "Cases": 92,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Suffolk",
+    "totals": {
+      "Cases": 249417,
+      "Deaths": 3668
+    },
+    "daily": {
+      "Cases": 621,
+      "Deaths": 2
+    }
+  },
+  {
+    "c_ref": "Sullivan",
+    "totals": {
+      "Cases": 9174,
+      "Deaths": 88
+    },
+    "daily": {
+      "Cases": 39,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Tioga",
+    "totals": {
+      "Cases": 6069,
+      "Deaths": 73
+    },
+    "daily": {
+      "Cases": 60,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Tompkins",
+    "totals": {
+      "Cases": 7088,
+      "Deaths": 61
+    },
+    "daily": {
+      "Cases": 25,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Ulster",
+    "totals": {
+      "Cases": 18403,
+      "Deaths": 287
+    },
+    "daily": {
+      "Cases": 83,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Unassigned",
+    "totals": {
+      "Cases": 138,
+      "Deaths": 2
+    },
+    "daily": {
+      "Cases": 3,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Warren",
+    "totals": {
+      "Cases": 6724,
+      "Deaths": 91
+    },
+    "daily": {
+      "Cases": 109,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Washington",
+    "totals": {
+      "Cases": 6056,
+      "Deaths": 74
+    },
+    "daily": {
+      "Cases": 135,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Wayne",
+    "totals": {
+      "Cases": 9624,
+      "Deaths": 98
+    },
+    "daily": {
+      "Cases": 66,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Westchester",
+    "totals": {
+      "Cases": 146400,
+      "Deaths": 2354
+    },
+    "daily": {
+      "Cases": 145,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Wyoming",
+    "totals": {
+      "Cases": 4964,
+      "Deaths": 63
+    },
+    "daily": {
+      "Cases": 35,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Yates",
+    "totals": {
+      "Cases": 1894,
+      "Deaths": 31
+    },
+    "daily": {
+      "Cases": 18,
+      "Deaths": 0
+    }
+  }
+]
