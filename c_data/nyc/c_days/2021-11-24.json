@@ -1,0 +1,57 @@
+[
+  {
+    "c_ref": "Bronx",
+    "totals": {
+      "Cases": 205977,
+      "Deaths": 6688
+    },
+    "daily": {
+      "Cases": 185,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Brooklyn",
+    "totals": {
+      "Cases": 336612,
+      "Deaths": 10739
+    },
+    "daily": {
+      "Cases": 419,
+      "Deaths": 6
+    }
+  },
+  {
+    "c_ref": "Manhattan",
+    "totals": {
+      "Cases": 167160,
+      "Deaths": 4558
+    },
+    "daily": {
+      "Cases": 253,
+      "Deaths": -1
+    }
+  },
+  {
+    "c_ref": "Queens",
+    "totals": {
+      "Cases": 313549,
+      "Deaths": 10233
+    },
+    "daily": {
+      "Cases": 428,
+      "Deaths": 2
+    }
+  },
+  {
+    "c_ref": "Staten Island",
+    "totals": {
+      "Cases": 90364,
+      "Deaths": 1944
+    },
+    "daily": {
+      "Cases": 77,
+      "Deaths": -2
+    }
+  }
+]
