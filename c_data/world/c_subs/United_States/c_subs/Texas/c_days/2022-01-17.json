@@ -2059,11 +2059,11 @@
   {
     "c_ref": "Potter",
     "totals": {
-      "Cases": 29762,
+      "Cases": 29759,
       "Deaths": 621
     },
     "daily": {
-      "Cases": 0,
+      "Cases": -3,
       "Deaths": 0
     }
   },
@@ -2455,11 +2455,11 @@
   {
     "c_ref": "Throckmorton",
     "totals": {
-      "Cases": 175,
+      "Cases": 225,
       "Deaths": 7
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 50,
       "Deaths": 0
     }
   },
@@ -2515,6 +2515,17 @@
     },
     "daily": {
       "Cases": 44,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Unassigned",
+    "totals": {
+      "Cases": 49836,
+      "Deaths": 0
+    },
+    "daily": {
+      "Cases": 49836,
       "Deaths": 0
     }
   },
