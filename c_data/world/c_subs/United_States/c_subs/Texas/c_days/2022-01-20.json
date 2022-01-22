@@ -640,19 +640,8 @@
   {
     "c_ref": "DeWitt",
     "totals": {
-      "Cases": 5764,
-      "Deaths": 86
-    },
-    "daily": {
-      "Cases": 91,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Deaf Smith",
-    "totals": {
       "Cases": 3891,
-      "Deaths": 103
+      "Deaths": 86
     },
     "daily": {
       "Cases": 17,
@@ -660,10 +649,10 @@
     }
   },
   {
-    "c_ref": "Delta",
+    "c_ref": "Deaf Smith",
     "totals": {
       "Cases": 1567,
-      "Deaths": 22
+      "Deaths": 103
     },
     "daily": {
       "Cases": 11,
@@ -671,13 +660,24 @@
     }
   },
   {
-    "c_ref": "Denton",
+    "c_ref": "Delta",
     "totals": {
       "Cases": 147504,
-      "Deaths": 1128
+      "Deaths": 22
     },
     "daily": {
       "Cases": 1251,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Denton",
+    "totals": {
+      "Cases": 5764,
+      "Deaths": 1128
+    },
+    "daily": {
+      "Cases": 91,
       "Deaths": 1
     }
   },
@@ -1949,11 +1949,11 @@
   {
     "c_ref": "Nueces",
     "totals": {
-      "Cases": 86704,
+      "Cases": 70843,
       "Deaths": 1330
     },
     "daily": {
-      "Cases": 1581,
+      "Cases": 806,
       "Deaths": 2
     }
   },
@@ -2059,11 +2059,11 @@
   {
     "c_ref": "Potter",
     "totals": {
-      "Cases": 31664,
+      "Cases": 26553,
       "Deaths": 626
     },
     "daily": {
-      "Cases": 431,
+      "Cases": 98,
       "Deaths": 2
     }
   },
@@ -2477,11 +2477,11 @@
   {
     "c_ref": "Tom Green",
     "totals": {
-      "Cases": 37191,
+      "Cases": 27093,
       "Deaths": 402
     },
     "daily": {
-      "Cases": 565,
+      "Cases": 258,
       "Deaths": 1
     }
   },
@@ -2516,6 +2516,17 @@
     "daily": {
       "Cases": 18,
       "Deaths": -1
+    }
+  },
+  {
+    "c_ref": "Unassigned",
+    "totals": {
+      "Cases": 54205,
+      "Deaths": 0
+    },
+    "daily": {
+      "Cases": 2075,
+      "Deaths": 0
     }
   },
   {
@@ -2697,11 +2708,11 @@
   {
     "c_ref": "Williamson",
     "totals": {
-      "Cases": 110876,
+      "Cases": 109490,
       "Deaths": 777
     },
     "daily": {
-      "Cases": 1410,
+      "Cases": 1365,
       "Deaths": 3
     }
   },

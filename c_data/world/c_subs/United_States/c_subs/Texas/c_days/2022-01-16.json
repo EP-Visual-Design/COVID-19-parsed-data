@@ -6,7 +6,7 @@
       "Deaths": 215
     },
     "daily": {
-      "Cases": -183,
+      "Cases": 46,
       "Deaths": 2
     }
   },
@@ -17,7 +17,7 @@
       "Deaths": 67
     },
     "daily": {
-      "Cases": -101,
+      "Cases": 78,
       "Deaths": 0
     }
   },
@@ -28,7 +28,7 @@
       "Deaths": 433
     },
     "daily": {
-      "Cases": -896,
+      "Cases": 58,
       "Deaths": 1
     }
   },
@@ -402,7 +402,7 @@
       "Deaths": 230
     },
     "daily": {
-      "Cases": -573,
+      "Cases": 42,
       "Deaths": 0
     }
   },
@@ -446,7 +446,7 @@
       "Deaths": 18
     },
     "daily": {
-      "Cases": -60,
+      "Cases": 2,
       "Deaths": 0
     }
   },
@@ -567,7 +567,7 @@
       "Deaths": 19
     },
     "daily": {
-      "Cases": -84,
+      "Cases": 18,
       "Deaths": 0
     }
   },
@@ -622,7 +622,7 @@
       "Deaths": 5874
     },
     "daily": {
-      "Cases": -8478,
+      "Cases": 3532,
       "Deaths": 21
     }
   },
@@ -640,30 +640,19 @@
   {
     "c_ref": "DeWitt",
     "totals": {
-      "Cases": 5596,
+      "Cases": 3833,
       "Deaths": 86
     },
     "daily": {
-      "Cases": 21,
+      "Cases": 12,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Deaf Smith",
     "totals": {
-      "Cases": 3833,
-      "Deaths": 101
-    },
-    "daily": {
-      "Cases": -90,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Delta",
-    "totals": {
       "Cases": 1510,
-      "Deaths": 22
+      "Deaths": 101
     },
     "daily": {
       "Cases": 3,
@@ -671,13 +660,24 @@
     }
   },
   {
-    "c_ref": "Denton",
+    "c_ref": "Delta",
     "totals": {
       "Cases": 140457,
-      "Deaths": 1119
+      "Deaths": 22
     },
     "daily": {
       "Cases": 1188,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Denton",
+    "totals": {
+      "Cases": 5596,
+      "Deaths": 1119
+    },
+    "daily": {
+      "Cases": 21,
       "Deaths": 2
     }
   },
@@ -765,7 +765,7 @@
       "Deaths": 3279
     },
     "daily": {
-      "Cases": -15406,
+      "Cases": 689,
       "Deaths": 34
     }
   },
@@ -919,7 +919,7 @@
       "Deaths": 749
     },
     "daily": {
-      "Cases": 374,
+      "Cases": 651,
       "Deaths": 8
     }
   },
@@ -1007,7 +1007,7 @@
       "Deaths": 592
     },
     "daily": {
-      "Cases": -1396,
+      "Cases": 60,
       "Deaths": 0
     }
   },
@@ -1095,7 +1095,7 @@
       "Deaths": 222
     },
     "daily": {
-      "Cases": -562,
+      "Cases": 39,
       "Deaths": 1
     }
   },
@@ -1172,7 +1172,7 @@
       "Deaths": 361
     },
     "daily": {
-      "Cases": -857,
+      "Cases": 33,
       "Deaths": 1
     }
   },
@@ -1227,7 +1227,7 @@
       "Deaths": 155
     },
     "daily": {
-      "Cases": -604,
+      "Cases": 25,
       "Deaths": 1
     }
   },
@@ -1249,7 +1249,7 @@
       "Deaths": 156
     },
     "daily": {
-      "Cases": -525,
+      "Cases": 18,
       "Deaths": 3
     }
   },
@@ -1271,7 +1271,7 @@
       "Deaths": 322
     },
     "daily": {
-      "Cases": 10,
+      "Cases": 107,
       "Deaths": 2
     }
   },
@@ -1667,7 +1667,7 @@
       "Deaths": 1131
     },
     "daily": {
-      "Cases": -4241,
+      "Cases": 803,
       "Deaths": 7
     }
   },
@@ -1744,7 +1744,7 @@
       "Deaths": 420
     },
     "daily": {
-      "Cases": -250,
+      "Cases": 266,
       "Deaths": 1
     }
   },
@@ -1766,7 +1766,7 @@
       "Deaths": 786
     },
     "daily": {
-      "Cases": -2038,
+      "Cases": 583,
       "Deaths": 4
     }
   },
@@ -1821,7 +1821,7 @@
       "Deaths": 93
     },
     "daily": {
-      "Cases": -236,
+      "Cases": 28,
       "Deaths": 1
     }
   },
@@ -1942,18 +1942,18 @@
       "Deaths": 85
     },
     "daily": {
-      "Cases": -81,
+      "Cases": 8,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Nueces",
     "totals": {
-      "Cases": 81927,
+      "Cases": 68410,
       "Deaths": 1320
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 973,
       "Deaths": 0
     }
   },
@@ -1986,7 +1986,7 @@
       "Deaths": 309
     },
     "daily": {
-      "Cases": -1160,
+      "Cases": 49,
       "Deaths": 0
     }
   },
@@ -2059,11 +2059,11 @@
   {
     "c_ref": "Potter",
     "totals": {
-      "Cases": 29762,
+      "Cases": 26073,
       "Deaths": 621
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 148,
       "Deaths": 0
     }
   },
@@ -2074,7 +2074,7 @@
       "Deaths": 32
     },
     "daily": {
-      "Cases": -60,
+      "Cases": 2,
       "Deaths": 0
     }
   },
@@ -2140,7 +2140,7 @@
       "Deaths": 64
     },
     "daily": {
-      "Cases": -153,
+      "Cases": 10,
       "Deaths": 0
     }
   },
@@ -2283,7 +2283,7 @@
       "Deaths": 95
     },
     "daily": {
-      "Cases": -59,
+      "Cases": 44,
       "Deaths": 0
     }
   },
@@ -2327,7 +2327,7 @@
       "Deaths": 846
     },
     "daily": {
-      "Cases": -3372,
+      "Cases": 126,
       "Deaths": 5
     }
   },
@@ -2426,7 +2426,7 @@
       "Deaths": 633
     },
     "daily": {
-      "Cases": -1005,
+      "Cases": 116,
       "Deaths": 1
     }
   },
@@ -2477,11 +2477,11 @@
   {
     "c_ref": "Tom Green",
     "totals": {
-      "Cases": 34106,
+      "Cases": 25647,
       "Deaths": 398
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 451,
       "Deaths": 0
     }
   },
@@ -2515,6 +2515,17 @@
     },
     "daily": {
       "Cases": 12,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Unassigned",
+    "totals": {
+      "Cases": 47565,
+      "Deaths": 0
+    },
+    "daily": {
+      "Cases": 1010,
       "Deaths": 0
     }
   },
@@ -2558,7 +2569,7 @@
       "Deaths": 262
     },
     "daily": {
-      "Cases": -591,
+      "Cases": 95,
       "Deaths": 0
     }
   },
@@ -2569,7 +2580,7 @@
       "Deaths": 242
     },
     "daily": {
-      "Cases": -426,
+      "Cases": 27,
       "Deaths": 1
     }
   },
@@ -2668,7 +2679,7 @@
       "Deaths": 565
     },
     "daily": {
-      "Cases": -1581,
+      "Cases": 214,
       "Deaths": 8
     }
   },
@@ -2745,7 +2756,7 @@
       "Deaths": 247
     },
     "daily": {
-      "Cases": -660,
+      "Cases": 17,
       "Deaths": 1
     }
   },
