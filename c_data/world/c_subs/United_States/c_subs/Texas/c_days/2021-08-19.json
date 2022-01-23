@@ -640,8 +640,19 @@
   {
     "c_ref": "DeWitt",
     "totals": {
-      "Cases": 2930,
+      "Cases": 4132,
       "Deaths": 64
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Deaf Smith",
+    "totals": {
+      "Cases": 2930,
+      "Deaths": 68
     },
     "daily": {
       "Cases": 1,
@@ -649,10 +660,10 @@
     }
   },
   {
-    "c_ref": "Deaf Smith",
+    "c_ref": "Delta",
     "totals": {
       "Cases": 1052,
-      "Deaths": 68
+      "Deaths": 14
     },
     "daily": {
       "Cases": 2,
@@ -660,24 +671,13 @@
     }
   },
   {
-    "c_ref": "Delta",
-    "totals": {
-      "Cases": 81675,
-      "Deaths": 14
-    },
-    "daily": {
-      "Cases": 401,
-      "Deaths": 0
-    }
-  },
-  {
     "c_ref": "Denton",
     "totals": {
-      "Cases": 4132,
+      "Cases": 81675,
       "Deaths": 808
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 401,
       "Deaths": 3
     }
   },
