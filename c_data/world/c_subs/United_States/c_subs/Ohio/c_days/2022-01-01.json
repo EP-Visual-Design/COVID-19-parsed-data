@@ -69,7 +69,7 @@
     "c_ref": "Belmont",
     "totals": {
       "Cases": 11473,
-      "Deaths": 253
+      "Deaths": 255
     },
     "daily": {
       "Cases": 0,
@@ -80,7 +80,7 @@
     "c_ref": "Brown",
     "totals": {
       "Cases": 8064,
-      "Deaths": 145
+      "Deaths": 144
     },
     "daily": {
       "Cases": 0,
@@ -135,7 +135,7 @@
     "c_ref": "Clermont",
     "totals": {
       "Cases": 35711,
-      "Deaths": 430
+      "Deaths": 431
     },
     "daily": {
       "Cases": 0,
@@ -190,11 +190,11 @@
     "c_ref": "Cuyahoga",
     "totals": {
       "Cases": 227664,
-      "Deaths": 3112
+      "Deaths": 3117
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 9
+      "Deaths": 11
     }
   },
   {
@@ -223,7 +223,7 @@
     "c_ref": "Delaware",
     "totals": {
       "Cases": 31370,
-      "Deaths": 210
+      "Deaths": 211
     },
     "daily": {
       "Cases": 0,
@@ -267,11 +267,11 @@
     "c_ref": "Franklin",
     "totals": {
       "Cases": 208679,
-      "Deaths": 2079
+      "Deaths": 2083
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 5
+      "Deaths": 6
     }
   },
   {
@@ -289,7 +289,7 @@
     "c_ref": "Gallia",
     "totals": {
       "Cases": 5155,
-      "Deaths": 90
+      "Deaths": 91
     },
     "daily": {
       "Cases": 0,
@@ -333,7 +333,7 @@
     "c_ref": "Hamilton",
     "totals": {
       "Cases": 131890,
-      "Deaths": 1723
+      "Deaths": 1724
     },
     "daily": {
       "Cases": 0,
@@ -366,7 +366,7 @@
     "c_ref": "Harrison",
     "totals": {
       "Cases": 2444,
-      "Deaths": 62
+      "Deaths": 63
     },
     "daily": {
       "Cases": 0,
@@ -443,7 +443,7 @@
     "c_ref": "Jefferson",
     "totals": {
       "Cases": 10833,
-      "Deaths": 263
+      "Deaths": 264
     },
     "daily": {
       "Cases": 0,
@@ -465,7 +465,7 @@
     "c_ref": "Lake",
     "totals": {
       "Cases": 41121,
-      "Deaths": 603
+      "Deaths": 604
     },
     "daily": {
       "Cases": 0,
@@ -476,7 +476,7 @@
     "c_ref": "Lawrence",
     "totals": {
       "Cases": 11750,
-      "Deaths": 193
+      "Deaths": 195
     },
     "daily": {
       "Cases": 0,
@@ -509,7 +509,7 @@
     "c_ref": "Lorain",
     "totals": {
       "Cases": 53732,
-      "Deaths": 804
+      "Deaths": 805
     },
     "daily": {
       "Cases": 0,
@@ -520,7 +520,7 @@
     "c_ref": "Lucas",
     "totals": {
       "Cases": 71957,
-      "Deaths": 1175
+      "Deaths": 1176
     },
     "daily": {
       "Cases": 0,
@@ -542,11 +542,11 @@
     "c_ref": "Mahoning",
     "totals": {
       "Cases": 41554,
-      "Deaths": 932
+      "Deaths": 933
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 3
+      "Deaths": 4
     }
   },
   {
@@ -597,11 +597,11 @@
     "c_ref": "Miami",
     "totals": {
       "Cases": 19397,
-      "Deaths": 388
+      "Deaths": 389
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 1
+      "Deaths": 2
     }
   },
   {
@@ -619,11 +619,11 @@
     "c_ref": "Montgomery",
     "totals": {
       "Cases": 89842,
-      "Deaths": 1590
+      "Deaths": 1592
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 3
+      "Deaths": 4
     }
   },
   {
@@ -641,7 +641,7 @@
     "c_ref": "Morrow",
     "totals": {
       "Cases": 5903,
-      "Deaths": 80
+      "Deaths": 79
     },
     "daily": {
       "Cases": 0,
@@ -696,7 +696,7 @@
     "c_ref": "Perry",
     "totals": {
       "Cases": 6252,
-      "Deaths": 100
+      "Deaths": 101
     },
     "daily": {
       "Cases": 0,
@@ -729,11 +729,11 @@
     "c_ref": "Portage",
     "totals": {
       "Cases": 27108,
-      "Deaths": 375
+      "Deaths": 376
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 4
+      "Deaths": 5
     }
   },
   {
@@ -828,18 +828,7 @@
     "c_ref": "Stark",
     "totals": {
       "Cases": 63226,
-      "Deaths": 1428
-    },
-    "daily": {
-      "Cases": 0,
-      "Deaths": 4
-    }
-  },
-  {
-    "c_ref": "Summit",
-    "totals": {
-      "Cases": 90813,
-      "Deaths": 1441
+      "Deaths": 1429
     },
     "daily": {
       "Cases": 0,
@@ -847,10 +836,21 @@
     }
   },
   {
+    "c_ref": "Summit",
+    "totals": {
+      "Cases": 90813,
+      "Deaths": 1443
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 7
+    }
+  },
+  {
     "c_ref": "Trumbull",
     "totals": {
       "Cases": 32074,
-      "Deaths": 775
+      "Deaths": 776
     },
     "daily": {
       "Cases": 0,
@@ -861,11 +861,11 @@
     "c_ref": "Tuscarawas",
     "totals": {
       "Cases": 16336,
-      "Deaths": 429
+      "Deaths": 431
     },
     "daily": {
       "Cases": 0,
-      "Deaths": 0
+      "Deaths": 1
     }
   },
   {
