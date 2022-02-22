@@ -2,217 +2,52 @@
   {
     "c_ref": "Allegany",
     "totals": {
-      "Cases": 12578,
+      "Cases": 12699,
       "Deaths": 298
     },
     "daily": {
-      "Cases": 247,
+      "Cases": 264,
       "Deaths": 2
     }
   },
   {
     "c_ref": "Anne Arundel",
     "totals": {
-      "Cases": 71497,
+      "Cases": 72468,
       "Deaths": 854
     },
     "daily": {
-      "Cases": 935,
+      "Cases": 1001,
       "Deaths": 5
     }
   },
   {
     "c_ref": "Baltimore",
     "totals": {
-      "Cases": 106847,
+      "Cases": 108879,
       "Deaths": 2014
     },
     "daily": {
-      "Cases": 1720,
+      "Cases": 1853,
       "Deaths": 6
     }
   },
   {
     "c_ref": "Baltimore City",
     "totals": {
-      "Cases": 89483,
+      "Cases": 91562,
       "Deaths": 1448
     },
     "daily": {
-      "Cases": 1311,
+      "Cases": 1430,
       "Deaths": 7
     }
   },
   {
     "c_ref": "Calvert",
     "totals": {
-      "Cases": 8299,
+      "Cases": 8397,
       "Deaths": 107
-    },
-    "daily": {
-      "Cases": 84,
-      "Deaths": 1
-    }
-  },
-  {
-    "c_ref": "Caroline",
-    "totals": {
-      "Cases": 4564,
-      "Deaths": 57
-    },
-    "daily": {
-      "Cases": 28,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Carroll",
-    "totals": {
-      "Cases": 16516,
-      "Deaths": 327
-    },
-    "daily": {
-      "Cases": 240,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Cecil",
-    "totals": {
-      "Cases": 11545,
-      "Deaths": 211
-    },
-    "daily": {
-      "Cases": 117,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Charles",
-    "totals": {
-      "Cases": 21326,
-      "Deaths": 277
-    },
-    "daily": {
-      "Cases": 296,
-      "Deaths": 3
-    }
-  },
-  {
-    "c_ref": "Dorchester",
-    "totals": {
-      "Cases": 5591,
-      "Deaths": 93
-    },
-    "daily": {
-      "Cases": 30,
-      "Deaths": 1
-    }
-  },
-  {
-    "c_ref": "Frederick",
-    "totals": {
-      "Cases": 34689,
-      "Deaths": 423
-    },
-    "daily": {
-      "Cases": 612,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Garrett",
-    "totals": {
-      "Cases": 4434,
-      "Deaths": 98
-    },
-    "daily": {
-      "Cases": 63,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Harford",
-    "totals": {
-      "Cases": 29674,
-      "Deaths": 430
-    },
-    "daily": {
-      "Cases": 273,
-      "Deaths": 1
-    }
-  },
-  {
-    "c_ref": "Howard",
-    "totals": {
-      "Cases": 32956,
-      "Deaths": 301
-    },
-    "daily": {
-      "Cases": 578,
-      "Deaths": 1
-    }
-  },
-  {
-    "c_ref": "Kent",
-    "totals": {
-      "Cases": 2321,
-      "Deaths": 59
-    },
-    "daily": {
-      "Cases": 13,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Montgomery",
-    "totals": {
-      "Cases": 121074,
-      "Deaths": 1777
-    },
-    "daily": {
-      "Cases": 3101,
-      "Deaths": 6
-    }
-  },
-  {
-    "c_ref": "Prince George's",
-    "totals": {
-      "Cases": 139116,
-      "Deaths": 1797
-    },
-    "daily": {
-      "Cases": 2035,
-      "Deaths": 5
-    }
-  },
-  {
-    "c_ref": "Queen Anne's",
-    "totals": {
-      "Cases": 5571,
-      "Deaths": 86
-    },
-    "daily": {
-      "Cases": 63,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Somerset",
-    "totals": {
-      "Cases": 3926,
-      "Deaths": 58
-    },
-    "daily": {
-      "Cases": 34,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "St. Mary's",
-    "totals": {
-      "Cases": 13682,
-      "Deaths": 183
     },
     "daily": {
       "Cases": 86,
@@ -220,57 +55,222 @@
     }
   },
   {
+    "c_ref": "Caroline",
+    "totals": {
+      "Cases": 4610,
+      "Deaths": 57
+    },
+    "daily": {
+      "Cases": 31,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Carroll",
+    "totals": {
+      "Cases": 16674,
+      "Deaths": 327
+    },
+    "daily": {
+      "Cases": 254,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Cecil",
+    "totals": {
+      "Cases": 11643,
+      "Deaths": 211
+    },
+    "daily": {
+      "Cases": 125,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Charles",
+    "totals": {
+      "Cases": 21682,
+      "Deaths": 277
+    },
+    "daily": {
+      "Cases": 321,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Dorchester",
+    "totals": {
+      "Cases": 5668,
+      "Deaths": 93
+    },
+    "daily": {
+      "Cases": 40,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Frederick",
+    "totals": {
+      "Cases": 35237,
+      "Deaths": 423
+    },
+    "daily": {
+      "Cases": 666,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Garrett",
+    "totals": {
+      "Cases": 4485,
+      "Deaths": 98
+    },
+    "daily": {
+      "Cases": 69,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Harford",
+    "totals": {
+      "Cases": 30084,
+      "Deaths": 430
+    },
+    "daily": {
+      "Cases": 311,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Howard",
+    "totals": {
+      "Cases": 33456,
+      "Deaths": 301
+    },
+    "daily": {
+      "Cases": 618,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Kent",
+    "totals": {
+      "Cases": 2336,
+      "Deaths": 59
+    },
+    "daily": {
+      "Cases": 18,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Montgomery",
+    "totals": {
+      "Cases": 123262,
+      "Deaths": 1777
+    },
+    "daily": {
+      "Cases": 3289,
+      "Deaths": 6
+    }
+  },
+  {
+    "c_ref": "Prince George's",
+    "totals": {
+      "Cases": 142192,
+      "Deaths": 1797
+    },
+    "daily": {
+      "Cases": 2240,
+      "Deaths": 5
+    }
+  },
+  {
+    "c_ref": "Queen Anne's",
+    "totals": {
+      "Cases": 5627,
+      "Deaths": 86
+    },
+    "daily": {
+      "Cases": 68,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Somerset",
+    "totals": {
+      "Cases": 3974,
+      "Deaths": 58
+    },
+    "daily": {
+      "Cases": 37,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "St. Mary's",
+    "totals": {
+      "Cases": 13839,
+      "Deaths": 183
+    },
+    "daily": {
+      "Cases": 89,
+      "Deaths": 1
+    }
+  },
+  {
     "c_ref": "Talbot",
     "totals": {
-      "Cases": 4100,
+      "Cases": 4140,
       "Deaths": 66
     },
     "daily": {
-      "Cases": 47,
+      "Cases": 52,
       "Deaths": 1
     }
   },
   {
     "c_ref": "Unassigned",
     "totals": {
-      "Cases": 683,
+      "Cases": 0,
       "Deaths": 219
     },
     "daily": {
-      "Cases": 50,
+      "Cases": 0,
       "Deaths": 12
     }
   },
   {
     "c_ref": "Washington",
     "totals": {
-      "Cases": 27634,
+      "Cases": 28055,
       "Deaths": 479
     },
     "daily": {
-      "Cases": 481,
+      "Cases": 534,
       "Deaths": 2
     }
   },
   {
     "c_ref": "Wicomico",
     "totals": {
-      "Cases": 14414,
+      "Cases": 14595,
       "Deaths": 254
     },
     "daily": {
-      "Cases": 171,
+      "Cases": 187,
       "Deaths": 1
     }
   },
   {
     "c_ref": "Worcester",
     "totals": {
-      "Cases": 6445,
+      "Cases": 6538,
       "Deaths": 132
     },
     "daily": {
-      "Cases": 120,
+      "Cases": 135,
       "Deaths": 0
     }
   }
