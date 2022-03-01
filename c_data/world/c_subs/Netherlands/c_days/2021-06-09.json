@@ -35,52 +35,30 @@
   {
     "c_ref": "Drenthe",
     "totals": {
-      "Cases": 34023,
+      "Cases": 34065,
       "Deaths": 353
     },
     "daily": {
-      "Cases": 38,
+      "Cases": 39,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Flevoland",
     "totals": {
-      "Cases": 36711,
+      "Cases": 36739,
       "Deaths": 244
     },
     "daily": {
-      "Cases": 31,
+      "Cases": 30,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Friesland",
     "totals": {
-      "Cases": 43508,
+      "Cases": 43562,
       "Deaths": 476
-    },
-    "daily": {
-      "Cases": 20,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Gelderland",
-    "totals": {
-      "Cases": 186753,
-      "Deaths": 2025
-    },
-    "daily": {
-      "Cases": 256,
-      "Deaths": 1
-    }
-  },
-  {
-    "c_ref": "Groningen",
-    "totals": {
-      "Cases": 39015,
-      "Deaths": 263
     },
     "daily": {
       "Cases": 26,
@@ -88,46 +66,68 @@
     }
   },
   {
-    "c_ref": "Limburg",
+    "c_ref": "Gelderland",
     "totals": {
-      "Cases": 114702,
-      "Deaths": 1648
+      "Cases": 187169,
+      "Deaths": 2027
     },
     "daily": {
-      "Cases": 125,
+      "Cases": 258,
+      "Deaths": 1
+    }
+  },
+  {
+    "c_ref": "Groningen",
+    "totals": {
+      "Cases": 37728,
+      "Deaths": 254
+    },
+    "daily": {
+      "Cases": 27,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Limburg",
+    "totals": {
+      "Cases": 114997,
+      "Deaths": 1651
+    },
+    "daily": {
+      "Cases": 131,
       "Deaths": 1
     }
   },
   {
     "c_ref": "Noord-Brabant",
     "totals": {
-      "Cases": 270422,
-      "Deaths": 3133
+      "Cases": 268708,
+      "Deaths": 3106
     },
     "daily": {
-      "Cases": 264,
-      "Deaths": 1
+      "Cases": 262,
+      "Deaths": 2
     }
   },
   {
     "c_ref": "Noord-Holland",
     "totals": {
-      "Cases": 275311,
-      "Deaths": 2613
+      "Cases": 275845,
+      "Deaths": 2615
     },
     "daily": {
-      "Cases": 193,
+      "Cases": 201,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Overijssel",
     "totals": {
-      "Cases": 109252,
-      "Deaths": 1135
+      "Cases": 109621,
+      "Deaths": 1138
     },
     "daily": {
-      "Cases": 111,
+      "Cases": 113,
       "Deaths": 0
     }
   },
@@ -145,19 +145,19 @@
   {
     "c_ref": "Unknown",
     "totals": {
-      "Cases": 3822,
-      "Deaths": 15
+      "Cases": 2548,
+      "Deaths": 25
     },
     "daily": {
-      "Cases": -6,
-      "Deaths": 1
+      "Cases": -35,
+      "Deaths": -1
     }
   },
   {
     "c_ref": "Utrecht",
     "totals": {
-      "Cases": 127212,
-      "Deaths": 1280
+      "Cases": 127359,
+      "Deaths": 1282
     },
     "daily": {
       "Cases": 161,
@@ -167,22 +167,22 @@
   {
     "c_ref": "Zeeland",
     "totals": {
-      "Cases": 29475,
-      "Deaths": 247
+      "Cases": 29519,
+      "Deaths": 249
     },
     "daily": {
       "Cases": 37,
-      "Deaths": 0
+      "Deaths": 1
     }
   },
   {
     "c_ref": "Zuid-Holland",
     "totals": {
-      "Cases": 397354,
-      "Deaths": 4268
+      "Cases": 399700,
+      "Deaths": 4280
     },
     "daily": {
-      "Cases": 458,
+      "Cases": 464,
       "Deaths": 1
     }
   }
