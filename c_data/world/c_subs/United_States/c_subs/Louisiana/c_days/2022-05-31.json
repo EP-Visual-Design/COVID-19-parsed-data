@@ -2,8 +2,52 @@
   {
     "c_ref": "Acadia",
     "totals": {
-      "Cases": 15117,
+      "Cases": 15977,
       "Deaths": 294
+    },
+    "daily": {
+      "Cases": 11,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Allen",
+    "totals": {
+      "Cases": 7910,
+      "Deaths": 141
+    },
+    "daily": {
+      "Cases": 3,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Ascension",
+    "totals": {
+      "Cases": 35415,
+      "Deaths": 293
+    },
+    "daily": {
+      "Cases": 64,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Assumption",
+    "totals": {
+      "Cases": 5626,
+      "Deaths": 70
+    },
+    "daily": {
+      "Cases": 7,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Avoyelles",
+    "totals": {
+      "Cases": 11677,
+      "Deaths": 209
     },
     "daily": {
       "Cases": 9,
@@ -11,64 +55,20 @@
     }
   },
   {
-    "c_ref": "Allen",
-    "totals": {
-      "Cases": 7402,
-      "Deaths": 141
-    },
-    "daily": {
-      "Cases": 2,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Ascension",
-    "totals": {
-      "Cases": 33626,
-      "Deaths": 293
-    },
-    "daily": {
-      "Cases": 53,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Assumption",
-    "totals": {
-      "Cases": 5305,
-      "Deaths": 70
-    },
-    "daily": {
-      "Cases": 4,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Avoyelles",
-    "totals": {
-      "Cases": 10855,
-      "Deaths": 209
-    },
-    "daily": {
-      "Cases": 6,
-      "Deaths": 0
-    }
-  },
-  {
     "c_ref": "Beauregard",
     "totals": {
-      "Cases": 8851,
+      "Cases": 9338,
       "Deaths": 143
     },
     "daily": {
-      "Cases": 10,
+      "Cases": 13,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Bienville",
     "totals": {
-      "Cases": 3733,
+      "Cases": 4002,
       "Deaths": 111
     },
     "daily": {
@@ -79,40 +79,40 @@
   {
     "c_ref": "Bossier",
     "totals": {
-      "Cases": 35786,
+      "Cases": 38012,
       "Deaths": 493
     },
     "daily": {
-      "Cases": 59,
+      "Cases": 73,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Caddo",
     "totals": {
-      "Cases": 64021,
+      "Cases": 68004,
       "Deaths": 1158
     },
     "daily": {
-      "Cases": 82,
+      "Cases": 90,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Calcasieu",
     "totals": {
-      "Cases": 52277,
+      "Cases": 55274,
       "Deaths": 708
     },
     "daily": {
-      "Cases": 61,
+      "Cases": 77,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Caldwell",
     "totals": {
-      "Cases": 3342,
+      "Cases": 3626,
       "Deaths": 55
     },
     "daily": {
@@ -123,7 +123,7 @@
   {
     "c_ref": "Cameron",
     "totals": {
-      "Cases": 1146,
+      "Cases": 1200,
       "Deaths": 8
     },
     "daily": {
@@ -134,7 +134,7 @@
   {
     "c_ref": "Catahoula",
     "totals": {
-      "Cases": 2571,
+      "Cases": 2708,
       "Deaths": 55
     },
     "daily": {
@@ -145,8 +145,19 @@
   {
     "c_ref": "Claiborne",
     "totals": {
-      "Cases": 3112,
+      "Cases": 3289,
       "Deaths": 78
+    },
+    "daily": {
+      "Cases": 4,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Concordia",
+    "totals": {
+      "Cases": 5136,
+      "Deaths": 89
     },
     "daily": {
       "Cases": 3,
@@ -154,10 +165,32 @@
     }
   },
   {
-    "c_ref": "Concordia",
+    "c_ref": "De Soto",
     "totals": {
-      "Cases": 4846,
-      "Deaths": 89
+      "Cases": 7397,
+      "Deaths": 135
+    },
+    "daily": {
+      "Cases": 10,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "East Baton Rouge",
+    "totals": {
+      "Cases": 113342,
+      "Deaths": 1348
+    },
+    "daily": {
+      "Cases": 354,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "East Carroll",
+    "totals": {
+      "Cases": 2541,
+      "Deaths": 38
     },
     "daily": {
       "Cases": 1,
@@ -165,64 +198,31 @@
     }
   },
   {
-    "c_ref": "De Soto",
-    "totals": {
-      "Cases": 7002,
-      "Deaths": 135
-    },
-    "daily": {
-      "Cases": 7,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "East Baton Rouge",
-    "totals": {
-      "Cases": 107699,
-      "Deaths": 1348
-    },
-    "daily": {
-      "Cases": 297,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "East Carroll",
-    "totals": {
-      "Cases": 2342,
-      "Deaths": 38
-    },
-    "daily": {
-      "Cases": 0,
-      "Deaths": 0
-    }
-  },
-  {
     "c_ref": "East Feliciana",
     "totals": {
-      "Cases": 6724,
+      "Cases": 7337,
       "Deaths": 170
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 3,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Evangeline",
     "totals": {
-      "Cases": 8008,
+      "Cases": 8467,
       "Deaths": 160
     },
     "daily": {
-      "Cases": 7,
+      "Cases": 8,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Franklin",
     "totals": {
-      "Cases": 6795,
+      "Cases": 7366,
       "Deaths": 178
     },
     "daily": {
@@ -233,7 +233,7 @@
   {
     "c_ref": "Grant",
     "totals": {
-      "Cases": 5565,
+      "Cases": 5893,
       "Deaths": 94
     },
     "daily": {
@@ -244,29 +244,29 @@
   {
     "c_ref": "Iberia",
     "totals": {
-      "Cases": 18349,
+      "Cases": 19314,
       "Deaths": 263
     },
     "daily": {
-      "Cases": 23,
+      "Cases": 29,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Iberville",
     "totals": {
-      "Cases": 8708,
+      "Cases": 9219,
       "Deaths": 153
     },
     "daily": {
-      "Cases": 35,
+      "Cases": 52,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Jackson",
     "totals": {
-      "Cases": 4144,
+      "Cases": 4416,
       "Deaths": 76
     },
     "daily": {
@@ -277,18 +277,18 @@
   {
     "c_ref": "Jefferson",
     "totals": {
-      "Cases": 112033,
+      "Cases": 117788,
       "Deaths": 1348
     },
     "daily": {
-      "Cases": 358,
+      "Cases": 432,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Jefferson Davis",
     "totals": {
-      "Cases": 6641,
+      "Cases": 6988,
       "Deaths": 158
     },
     "daily": {
@@ -299,62 +299,62 @@
   {
     "c_ref": "LaSalle",
     "totals": {
-      "Cases": 4053,
+      "Cases": 4288,
       "Deaths": 61
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 3,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Lafayette",
     "totals": {
-      "Cases": 60462,
+      "Cases": 63572,
       "Deaths": 501
     },
     "daily": {
-      "Cases": 76,
+      "Cases": 95,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Lafourche",
     "totals": {
-      "Cases": 26594,
+      "Cases": 28205,
       "Deaths": 374
     },
     "daily": {
-      "Cases": 32,
+      "Cases": 38,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Lincoln",
     "totals": {
-      "Cases": 11559,
+      "Cases": 12318,
       "Deaths": 144
     },
     "daily": {
-      "Cases": 7,
+      "Cases": 11,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Livingston",
     "totals": {
-      "Cases": 35596,
+      "Cases": 37607,
       "Deaths": 469
     },
     "daily": {
-      "Cases": 67,
+      "Cases": 81,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Madison",
     "totals": {
-      "Cases": 3042,
+      "Cases": 3271,
       "Deaths": 59
     },
     "daily": {
@@ -365,63 +365,85 @@
   {
     "c_ref": "Morehouse",
     "totals": {
-      "Cases": 6532,
+      "Cases": 6886,
       "Deaths": 134
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 1,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Natchitoches",
     "totals": {
-      "Cases": 9631,
+      "Cases": 10216,
       "Deaths": 168
     },
     "daily": {
-      "Cases": 14,
+      "Cases": 15,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Orleans",
     "totals": {
-      "Cases": 88768,
+      "Cases": 93078,
       "Deaths": 1112
     },
     "daily": {
-      "Cases": 252,
+      "Cases": 284,
       "Deaths": 1
     }
   },
   {
     "c_ref": "Ouachita",
     "totals": {
-      "Cases": 47714,
+      "Cases": 50991,
       "Deaths": 755
     },
     "daily": {
-      "Cases": 45,
+      "Cases": 54,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Plaquemines",
     "totals": {
-      "Cases": 6334,
+      "Cases": 6655,
       "Deaths": 46
     },
     "daily": {
-      "Cases": 20,
+      "Cases": 27,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Pointe Coupee",
     "totals": {
-      "Cases": 5965,
+      "Cases": 6361,
       "Deaths": 93
+    },
+    "daily": {
+      "Cases": 7,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Rapides",
+    "totals": {
+      "Cases": 32986,
+      "Deaths": 577
+    },
+    "daily": {
+      "Cases": 49,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Red River",
+    "totals": {
+      "Cases": 2121,
+      "Deaths": 53
     },
     "daily": {
       "Cases": 4,
@@ -429,31 +451,9 @@
     }
   },
   {
-    "c_ref": "Rapides",
-    "totals": {
-      "Cases": 31136,
-      "Deaths": 577
-    },
-    "daily": {
-      "Cases": 40,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Red River",
-    "totals": {
-      "Cases": 1996,
-      "Deaths": 53
-    },
-    "daily": {
-      "Cases": 2,
-      "Deaths": 0
-    }
-  },
-  {
     "c_ref": "Richland",
     "totals": {
-      "Cases": 6203,
+      "Cases": 6755,
       "Deaths": 98
     },
     "daily": {
@@ -464,40 +464,40 @@
   {
     "c_ref": "Sabine",
     "totals": {
-      "Cases": 6024,
+      "Cases": 6378,
       "Deaths": 113
     },
     "daily": {
-      "Cases": 5,
+      "Cases": 10,
       "Deaths": 0
     }
   },
   {
     "c_ref": "St. Bernard",
     "totals": {
-      "Cases": 11088,
+      "Cases": 11657,
       "Deaths": 111
     },
     "daily": {
-      "Cases": 27,
+      "Cases": 30,
       "Deaths": 0
     }
   },
   {
     "c_ref": "St. Charles",
     "totals": {
-      "Cases": 13498,
+      "Cases": 14209,
       "Deaths": 145
     },
     "daily": {
-      "Cases": 50,
+      "Cases": 60,
       "Deaths": 0
     }
   },
   {
     "c_ref": "St. Helena",
     "totals": {
-      "Cases": 1856,
+      "Cases": 1943,
       "Deaths": 23
     },
     "daily": {
@@ -508,7 +508,7 @@
   {
     "c_ref": "St. James",
     "totals": {
-      "Cases": 5558,
+      "Cases": 5894,
       "Deaths": 76
     },
     "daily": {
@@ -519,41 +519,30 @@
   {
     "c_ref": "St. John the Baptist",
     "totals": {
-      "Cases": 10258,
+      "Cases": 10770,
       "Deaths": 184
     },
     "daily": {
-      "Cases": 22,
+      "Cases": 30,
       "Deaths": 0
     }
   },
   {
     "c_ref": "St. Landry",
     "totals": {
-      "Cases": 21277,
+      "Cases": 22428,
       "Deaths": 415
     },
     "daily": {
-      "Cases": 15,
+      "Cases": 18,
       "Deaths": 0
     }
   },
   {
     "c_ref": "St. Martin",
     "totals": {
-      "Cases": 12410,
+      "Cases": 13122,
       "Deaths": 190
-    },
-    "daily": {
-      "Cases": 10,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "St. Mary",
-    "totals": {
-      "Cases": 12067,
-      "Deaths": 263
     },
     "daily": {
       "Cases": 13,
@@ -561,31 +550,42 @@
     }
   },
   {
+    "c_ref": "St. Mary",
+    "totals": {
+      "Cases": 12654,
+      "Deaths": 263
+    },
+    "daily": {
+      "Cases": 18,
+      "Deaths": 0
+    }
+  },
+  {
     "c_ref": "St. Tammany",
     "totals": {
-      "Cases": 70211,
+      "Cases": 74335,
       "Deaths": 853
     },
     "daily": {
-      "Cases": 184,
+      "Cases": 211,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Tangipahoa",
     "totals": {
-      "Cases": 33458,
+      "Cases": 35286,
       "Deaths": 599
     },
     "daily": {
-      "Cases": 63,
+      "Cases": 73,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Tensas",
     "totals": {
-      "Cases": 944,
+      "Cases": 991,
       "Deaths": 11
     },
     "daily": {
@@ -596,18 +596,18 @@
   {
     "c_ref": "Terrebonne",
     "totals": {
-      "Cases": 29680,
+      "Cases": 31331,
       "Deaths": 419
     },
     "daily": {
-      "Cases": 52,
+      "Cases": 66,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Unassigned",
     "totals": {
-      "Cases": 954,
+      "Cases": 999,
       "Deaths": 0
     },
     "daily": {
@@ -618,7 +618,7 @@
   {
     "c_ref": "Union",
     "totals": {
-      "Cases": 6431,
+      "Cases": 6951,
       "Deaths": 135
     },
     "daily": {
@@ -629,41 +629,19 @@
   {
     "c_ref": "Vermilion",
     "totals": {
-      "Cases": 14607,
+      "Cases": 15454,
       "Deaths": 224
     },
     "daily": {
-      "Cases": 21,
+      "Cases": 23,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Vernon",
     "totals": {
-      "Cases": 9518,
+      "Cases": 9992,
       "Deaths": 191
-    },
-    "daily": {
-      "Cases": 7,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Washington",
-    "totals": {
-      "Cases": 12355,
-      "Deaths": 251
-    },
-    "daily": {
-      "Cases": 16,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Webster",
-    "totals": {
-      "Cases": 10600,
-      "Deaths": 187
     },
     "daily": {
       "Cases": 9,
@@ -671,20 +649,42 @@
     }
   },
   {
+    "c_ref": "Washington",
+    "totals": {
+      "Cases": 13097,
+      "Deaths": 251
+    },
+    "daily": {
+      "Cases": 19,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Webster",
+    "totals": {
+      "Cases": 11266,
+      "Deaths": 187
+    },
+    "daily": {
+      "Cases": 10,
+      "Deaths": 0
+    }
+  },
+  {
     "c_ref": "West Baton Rouge",
     "totals": {
-      "Cases": 6996,
+      "Cases": 7434,
       "Deaths": 90
     },
     "daily": {
-      "Cases": 21,
+      "Cases": 23,
       "Deaths": 0
     }
   },
   {
     "c_ref": "West Carroll",
     "totals": {
-      "Cases": 3354,
+      "Cases": 3636,
       "Deaths": 66
     },
     "daily": {
@@ -695,18 +695,18 @@
   {
     "c_ref": "West Feliciana",
     "totals": {
-      "Cases": 2732,
+      "Cases": 2860,
       "Deaths": 46
     },
     "daily": {
-      "Cases": 5,
+      "Cases": 7,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Winn",
     "totals": {
-      "Cases": 4189,
+      "Cases": 4471,
       "Deaths": 64
     },
     "daily": {
