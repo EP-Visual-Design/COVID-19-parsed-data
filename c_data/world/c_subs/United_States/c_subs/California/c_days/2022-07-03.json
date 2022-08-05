@@ -2,11 +2,11 @@
   {
     "c_ref": "Alameda",
     "totals": {
-      "Cases": 325644,
+      "Cases": 325374,
       "Deaths": 1898
     },
     "daily": {
-      "Cases": 28,
+      "Cases": 25,
       "Deaths": 0
     }
   },
@@ -24,7 +24,7 @@
   {
     "c_ref": "Amador",
     "totals": {
-      "Cases": 10029,
+      "Cases": 10018,
       "Deaths": 87
     },
     "daily": {
@@ -35,7 +35,7 @@
   {
     "c_ref": "Butte",
     "totals": {
-      "Cases": 43709,
+      "Cases": 43627,
       "Deaths": 436
     },
     "daily": {
@@ -46,7 +46,7 @@
   {
     "c_ref": "Calaveras",
     "totals": {
-      "Cases": 8273,
+      "Cases": 8260,
       "Deaths": 124
     },
     "daily": {
@@ -57,7 +57,7 @@
   {
     "c_ref": "Colusa",
     "totals": {
-      "Cases": 4739,
+      "Cases": 4723,
       "Deaths": 22
     },
     "daily": {
@@ -68,19 +68,52 @@
   {
     "c_ref": "Contra Costa",
     "totals": {
-      "Cases": 239066,
+      "Cases": 238779,
       "Deaths": 1343
     },
     "daily": {
-      "Cases": 48,
+      "Cases": 47,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Del Norte",
     "totals": {
-      "Cases": 6905,
+      "Cases": 6872,
       "Deaths": 53
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "El Dorado",
+    "totals": {
+      "Cases": 33576,
+      "Deaths": 217
+    },
+    "daily": {
+      "Cases": 5,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Fresno",
+    "totals": {
+      "Cases": 274375,
+      "Deaths": 2783
+    },
+    "daily": {
+      "Cases": 32,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Glenn",
+    "totals": {
+      "Cases": 6938,
+      "Deaths": 48
     },
     "daily": {
       "Cases": 1,
@@ -88,64 +121,31 @@
     }
   },
   {
-    "c_ref": "El Dorado",
-    "totals": {
-      "Cases": 33613,
-      "Deaths": 217
-    },
-    "daily": {
-      "Cases": 6,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Fresno",
-    "totals": {
-      "Cases": 274771,
-      "Deaths": 2783
-    },
-    "daily": {
-      "Cases": 25,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Glenn",
-    "totals": {
-      "Cases": 6957,
-      "Deaths": 48
-    },
-    "daily": {
-      "Cases": 2,
-      "Deaths": 0
-    }
-  },
-  {
     "c_ref": "Humboldt",
     "totals": {
-      "Cases": 23567,
+      "Cases": 23497,
       "Deaths": 149
     },
     "daily": {
-      "Cases": 6,
+      "Cases": 5,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Imperial",
     "totals": {
-      "Cases": 71173,
+      "Cases": 70892,
       "Deaths": 944
     },
     "daily": {
-      "Cases": 24,
+      "Cases": 22,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Inyo",
     "totals": {
-      "Cases": 4980,
+      "Cases": 4964,
       "Deaths": 56
     },
     "daily": {
@@ -167,7 +167,7 @@
   {
     "c_ref": "Kings",
     "totals": {
-      "Cases": 58090,
+      "Cases": 57992,
       "Deaths": 449
     },
     "daily": {
@@ -178,7 +178,7 @@
   {
     "c_ref": "Lake",
     "totals": {
-      "Cases": 12638,
+      "Cases": 12624,
       "Deaths": 140
     },
     "daily": {
@@ -211,18 +211,18 @@
   {
     "c_ref": "Madera",
     "totals": {
-      "Cases": 46665,
+      "Cases": 46546,
       "Deaths": 381
     },
     "daily": {
-      "Cases": 5,
+      "Cases": 4,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Marin",
     "totals": {
-      "Cases": 45423,
+      "Cases": 45369,
       "Deaths": 297
     },
     "daily": {
@@ -244,22 +244,22 @@
   {
     "c_ref": "Mendocino",
     "totals": {
-      "Cases": 18305,
+      "Cases": 18256,
       "Deaths": 127
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Merced",
     "totals": {
-      "Cases": 76051,
+      "Cases": 75900,
       "Deaths": 832
     },
     "daily": {
-      "Cases": 11,
+      "Cases": 10,
       "Deaths": 0
     }
   },
@@ -277,7 +277,7 @@
   {
     "c_ref": "Mono",
     "totals": {
-      "Cases": 3297,
+      "Cases": 3291,
       "Deaths": 7
     },
     "daily": {
@@ -288,7 +288,7 @@
   {
     "c_ref": "Monterey",
     "totals": {
-      "Cases": 104061,
+      "Cases": 103718,
       "Deaths": 744
     },
     "daily": {
@@ -299,7 +299,7 @@
   {
     "c_ref": "Napa",
     "totals": {
-      "Cases": 30798,
+      "Cases": 30774,
       "Deaths": 145
     },
     "daily": {
@@ -310,11 +310,11 @@
   {
     "c_ref": "Nevada",
     "totals": {
-      "Cases": 19072,
+      "Cases": 19043,
       "Deaths": 131
     },
     "daily": {
-      "Cases": 9,
+      "Cases": 7,
       "Deaths": 0
     }
   },
@@ -332,29 +332,29 @@
   {
     "c_ref": "Placer",
     "totals": {
-      "Cases": 78116,
+      "Cases": 78086,
       "Deaths": 631
     },
     "daily": {
-      "Cases": 13,
+      "Cases": 15,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Plumas",
     "totals": {
-      "Cases": 3704,
+      "Cases": 3699,
       "Deaths": 13
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Riverside",
     "totals": {
-      "Cases": 663723,
+      "Cases": 663219,
       "Deaths": 6502
     },
     "daily": {
@@ -365,7 +365,7 @@
   {
     "c_ref": "Sacramento",
     "totals": {
-      "Cases": 347063,
+      "Cases": 346377,
       "Deaths": 3255
     },
     "daily": {
@@ -376,22 +376,22 @@
   {
     "c_ref": "San Benito",
     "totals": {
-      "Cases": 15164,
+      "Cases": 15146,
       "Deaths": 100
     },
     "daily": {
-      "Cases": 12,
+      "Cases": 11,
       "Deaths": 0
     }
   },
   {
     "c_ref": "San Bernardino",
     "totals": {
-      "Cases": 631602,
+      "Cases": 631054,
       "Deaths": 7860
     },
     "daily": {
-      "Cases": 44,
+      "Cases": 37,
       "Deaths": 0
     }
   },
@@ -409,29 +409,29 @@
   {
     "c_ref": "San Francisco",
     "totals": {
-      "Cases": 169788,
+      "Cases": 169619,
       "Deaths": 910
     },
     "daily": {
-      "Cases": 26,
+      "Cases": 24,
       "Deaths": 0
     }
   },
   {
     "c_ref": "San Joaquin",
     "totals": {
-      "Cases": 192814,
+      "Cases": 192502,
       "Deaths": 2256
     },
     "daily": {
-      "Cases": 31,
+      "Cases": 27,
       "Deaths": 0
     }
   },
   {
     "c_ref": "San Luis Obispo",
     "totals": {
-      "Cases": 63977,
+      "Cases": 63840,
       "Deaths": 489
     },
     "daily": {
@@ -442,29 +442,29 @@
   {
     "c_ref": "San Mateo",
     "totals": {
-      "Cases": 159561,
+      "Cases": 159403,
       "Deaths": 775
     },
     "daily": {
-      "Cases": 22,
+      "Cases": 21,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Santa Barbara",
     "totals": {
-      "Cases": 100948,
+      "Cases": 100845,
       "Deaths": 699
     },
     "daily": {
-      "Cases": 12,
+      "Cases": 11,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Santa Clara",
     "totals": {
-      "Cases": 398686,
+      "Cases": 398482,
       "Deaths": 2355
     },
     "daily": {
@@ -475,7 +475,7 @@
   {
     "c_ref": "Santa Cruz",
     "totals": {
-      "Cases": 58657,
+      "Cases": 58578,
       "Deaths": 267
     },
     "daily": {
@@ -486,11 +486,11 @@
   {
     "c_ref": "Shasta",
     "totals": {
-      "Cases": 38958,
+      "Cases": 38891,
       "Deaths": 656
     },
     "daily": {
-      "Cases": 13,
+      "Cases": 11,
       "Deaths": 0
     }
   },
@@ -508,7 +508,7 @@
   {
     "c_ref": "Siskiyou",
     "totals": {
-      "Cases": 7880,
+      "Cases": 7853,
       "Deaths": 82
     },
     "daily": {
@@ -519,18 +519,18 @@
   {
     "c_ref": "Solano",
     "totals": {
-      "Cases": 101388,
+      "Cases": 101250,
       "Deaths": 455
     },
     "daily": {
-      "Cases": 19,
+      "Cases": 17,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Sonoma",
     "totals": {
-      "Cases": 101883,
+      "Cases": 101783,
       "Deaths": 497
     },
     "daily": {
@@ -552,7 +552,7 @@
   {
     "c_ref": "Sutter",
     "totals": {
-      "Cases": 24330,
+      "Cases": 24287,
       "Deaths": 228
     },
     "daily": {
@@ -563,7 +563,7 @@
   {
     "c_ref": "Tehama",
     "totals": {
-      "Cases": 15433,
+      "Cases": 15385,
       "Deaths": 205
     },
     "daily": {
@@ -574,7 +574,7 @@
   {
     "c_ref": "Trinity",
     "totals": {
-      "Cases": 1575,
+      "Cases": 1569,
       "Deaths": 20
     },
     "daily": {
@@ -585,18 +585,18 @@
   {
     "c_ref": "Tulare",
     "totals": {
-      "Cases": 144220,
+      "Cases": 143412,
       "Deaths": 1500
     },
     "daily": {
-      "Cases": 49,
+      "Cases": 44,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Tuolumne",
     "totals": {
-      "Cases": 14689,
+      "Cases": 14659,
       "Deaths": 189
     },
     "daily": {
@@ -618,29 +618,29 @@
   {
     "c_ref": "Ventura",
     "totals": {
-      "Cases": 201847,
+      "Cases": 201616,
       "Deaths": 1518
     },
     "daily": {
-      "Cases": 26,
+      "Cases": 24,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Yolo",
     "totals": {
-      "Cases": 46730,
+      "Cases": 46594,
       "Deaths": 324
     },
     "daily": {
-      "Cases": 7,
+      "Cases": 6,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Yuba",
     "totals": {
-      "Cases": 18680,
+      "Cases": 18654,
       "Deaths": 124
     },
     "daily": {
