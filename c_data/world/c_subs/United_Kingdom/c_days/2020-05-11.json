@@ -44,6 +44,17 @@
     }
   },
   {
+    "c_ref": "England",
+    "totals": {
+      "Cases": 0,
+      "Deaths": 39669
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 355
+    }
+  },
+  {
     "c_ref": "Falkland Islands (Malvinas)",
     "totals": {
       "Cases": 13,
@@ -110,6 +121,28 @@
     }
   },
   {
+    "c_ref": "Northern Ireland",
+    "totals": {
+      "Cases": 0,
+      "Deaths": 637
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 6
+    }
+  },
+  {
+    "c_ref": "Scotland",
+    "totals": {
+      "Cases": 0,
+      "Deaths": 3430
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 45
+    }
+  },
+  {
     "c_ref": "Turks and Caicos Islands",
     "totals": {
       "Cases": 12,
@@ -118,6 +151,28 @@
     "daily": {
       "Cases": 0,
       "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Unknown",
+    "totals": {
+      "Cases": 223060,
+      "Deaths": 0
+    },
+    "daily": {
+      "Cases": 3877,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Wales",
+    "totals": {
+      "Cases": 0,
+      "Deaths": 1951
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 21
     }
   }
 ]

@@ -11,6 +11,17 @@
     }
   },
   {
+    "c_ref": "England",
+    "totals": {
+      "Cases": 0,
+      "Deaths": 144
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 44
+    }
+  },
+  {
     "c_ref": "Gibraltar",
     "totals": {
       "Cases": 1,
@@ -19,6 +30,39 @@
     "daily": {
       "Cases": 0,
       "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Scotland",
+    "totals": {
+      "Cases": 0,
+      "Deaths": 8
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Unknown",
+    "totals": {
+      "Cases": 1543,
+      "Deaths": 0
+    },
+    "daily": {
+      "Cases": 403,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Wales",
+    "totals": {
+      "Cases": 0,
+      "Deaths": 4
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 3
     }
   }
 ]
