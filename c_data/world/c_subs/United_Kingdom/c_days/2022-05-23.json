@@ -47,7 +47,7 @@
     "c_ref": "England",
     "totals": {
       "Cases": 18716214,
-      "Deaths": 168803
+      "Deaths": 168840
     },
     "daily": {
       "Cases": -12154,
@@ -161,6 +161,17 @@
     },
     "daily": {
       "Cases": -26,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Unknown",
+    "totals": {
+      "Cases": 0,
+      "Deaths": 292
+    },
+    "daily": {
+      "Cases": 0,
       "Deaths": 0
     }
   },
