@@ -46,12 +46,12 @@
   {
     "c_ref": "England",
     "totals": {
-      "Cases": 19808426,
-      "Deaths": 164168
+      "Cases": 19780734,
+      "Deaths": 173741
     },
     "daily": {
-      "Cases": 27692,
-      "Deaths": -9573
+      "Cases": 0,
+      "Deaths": 0
     }
   },
   {
@@ -124,11 +124,11 @@
     "c_ref": "Northern Ireland",
     "totals": {
       "Cases": 713294,
-      "Deaths": 3445
+      "Deaths": 4807
     },
     "daily": {
       "Cases": 0,
-      "Deaths": -1362
+      "Deaths": 0
     }
   },
   {
@@ -145,12 +145,12 @@
   {
     "c_ref": "Scotland",
     "totals": {
-      "Cases": 2087616,
-      "Deaths": 12389
+      "Cases": 2083741,
+      "Deaths": 15487
     },
     "daily": {
-      "Cases": 3875,
-      "Deaths": -3098
+      "Cases": 0,
+      "Deaths": 0
     }
   },
   {
@@ -165,14 +165,25 @@
     }
   },
   {
-    "c_ref": "Wales",
+    "c_ref": "Unknown",
     "totals": {
-      "Cases": 883539,
-      "Deaths": 7759
+      "Cases": 0,
+      "Deaths": 310
     },
     "daily": {
-      "Cases": 521,
-      "Deaths": -2905
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Wales",
+    "totals": {
+      "Cases": 883018,
+      "Deaths": 10664
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
     }
   }
 ]
