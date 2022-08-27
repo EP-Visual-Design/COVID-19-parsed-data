@@ -2,41 +2,41 @@
   {
     "c_ref": "Adams",
     "totals": {
-      "Cases": 133267,
-      "Deaths": 1259
+      "Cases": 139466,
+      "Deaths": 1307
     },
     "daily": {
-      "Cases": 217,
-      "Deaths": -1
+      "Cases": 58,
+      "Deaths": 1
     }
   },
   {
     "c_ref": "Alamosa",
     "totals": {
-      "Cases": 4527,
-      "Deaths": 61
+      "Cases": 4586,
+      "Deaths": 62
     },
     "daily": {
-      "Cases": 4,
+      "Cases": 1,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Arapahoe",
     "totals": {
-      "Cases": 152319,
-      "Deaths": 1152
+      "Cases": 159586,
+      "Deaths": 1196
     },
     "daily": {
-      "Cases": 281,
+      "Cases": 77,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Archuleta",
     "totals": {
-      "Cases": 2902,
-      "Deaths": 15
+      "Cases": 2937,
+      "Deaths": 16
     },
     "daily": {
       "Cases": 2,
@@ -46,8 +46,8 @@
   {
     "c_ref": "Baca",
     "totals": {
-      "Cases": 846,
-      "Deaths": 8
+      "Cases": 862,
+      "Deaths": 13
     },
     "daily": {
       "Cases": 0,
@@ -57,8 +57,41 @@
   {
     "c_ref": "Bent",
     "totals": {
-      "Cases": 2540,
+      "Cases": 2565,
       "Deaths": 47
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Boulder",
+    "totals": {
+      "Cases": 68062,
+      "Deaths": 364
+    },
+    "daily": {
+      "Cases": 60,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Broomfield",
+    "totals": {
+      "Cases": 14155,
+      "Deaths": 117
+    },
+    "daily": {
+      "Cases": 6,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Chaffee",
+    "totals": {
+      "Cases": 4804,
+      "Deaths": 48
     },
     "daily": {
       "Cases": 2,
@@ -66,42 +99,9 @@
     }
   },
   {
-    "c_ref": "Boulder",
-    "totals": {
-      "Cases": 64636,
-      "Deaths": 358
-    },
-    "daily": {
-      "Cases": 127,
-      "Deaths": -2
-    }
-  },
-  {
-    "c_ref": "Broomfield",
-    "totals": {
-      "Cases": 13520,
-      "Deaths": 113
-    },
-    "daily": {
-      "Cases": 17,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Chaffee",
-    "totals": {
-      "Cases": 4648,
-      "Deaths": 44
-    },
-    "daily": {
-      "Cases": 13,
-      "Deaths": 0
-    }
-  },
-  {
     "c_ref": "Cheyenne",
     "totals": {
-      "Cases": 321,
+      "Cases": 322,
       "Deaths": 9
     },
     "daily": {
@@ -112,7 +112,7 @@
   {
     "c_ref": "Clear Creek",
     "totals": {
-      "Cases": 1562,
+      "Cases": 1637,
       "Deaths": 12
     },
     "daily": {
@@ -123,18 +123,18 @@
   {
     "c_ref": "Conejos",
     "totals": {
-      "Cases": 1743,
+      "Cases": 1766,
       "Deaths": 54
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Costilla",
     "totals": {
-      "Cases": 695,
+      "Cases": 715,
       "Deaths": 16
     },
     "daily": {
@@ -145,51 +145,51 @@
   {
     "c_ref": "Crowley",
     "totals": {
-      "Cases": 3317,
-      "Deaths": 28
+      "Cases": 3352,
+      "Deaths": 30
     },
     "daily": {
-      "Cases": 17,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Custer",
     "totals": {
-      "Cases": 650,
-      "Deaths": 20
+      "Cases": 663,
+      "Deaths": 21
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Delta",
     "totals": {
-      "Cases": 6157,
-      "Deaths": 134
+      "Cases": 6292,
+      "Deaths": 139
     },
     "daily": {
-      "Cases": 13,
+      "Cases": 1,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Denver",
     "totals": {
-      "Cases": 171562,
-      "Deaths": 1287
+      "Cases": 180342,
+      "Deaths": 1367
     },
     "daily": {
-      "Cases": 255,
-      "Deaths": 0
+      "Cases": 172,
+      "Deaths": 1
     }
   },
   {
     "c_ref": "Dolores",
     "totals": {
-      "Cases": 365,
+      "Cases": 369,
       "Deaths": 8
     },
     "daily": {
@@ -200,41 +200,63 @@
   {
     "c_ref": "Douglas",
     "totals": {
-      "Cases": 78405,
-      "Deaths": 401
+      "Cases": 82482,
+      "Deaths": 431
     },
     "daily": {
-      "Cases": 108,
-      "Deaths": 1
+      "Cases": 35,
+      "Deaths": 0
     }
   },
   {
     "c_ref": "Eagle",
     "totals": {
-      "Cases": 16038,
+      "Cases": 16671,
       "Deaths": 35
     },
     "daily": {
-      "Cases": 8,
+      "Cases": 6,
       "Deaths": 0
     }
   },
   {
     "c_ref": "El Paso",
     "totals": {
-      "Cases": 186140,
-      "Deaths": 1615
+      "Cases": 193599,
+      "Deaths": 1702
     },
     "daily": {
-      "Cases": 236,
-      "Deaths": 0
+      "Cases": 76,
+      "Deaths": 1
     }
   },
   {
     "c_ref": "Elbert",
     "totals": {
-      "Cases": 4793,
-      "Deaths": 37
+      "Cases": 4976,
+      "Deaths": 40
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Fremont",
+    "totals": {
+      "Cases": 15592,
+      "Deaths": 186
+    },
+    "daily": {
+      "Cases": 4,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Garfield",
+    "totals": {
+      "Cases": 15405,
+      "Deaths": 92
     },
     "daily": {
       "Cases": 8,
@@ -242,31 +264,9 @@
     }
   },
   {
-    "c_ref": "Fremont",
-    "totals": {
-      "Cases": 15273,
-      "Deaths": 179
-    },
-    "daily": {
-      "Cases": 5,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Garfield",
-    "totals": {
-      "Cases": 14738,
-      "Deaths": 90
-    },
-    "daily": {
-      "Cases": 21,
-      "Deaths": 0
-    }
-  },
-  {
     "c_ref": "Gilpin",
     "totals": {
-      "Cases": 953,
+      "Cases": 1000,
       "Deaths": 4
     },
     "daily": {
@@ -277,41 +277,41 @@
   {
     "c_ref": "Grand",
     "totals": {
-      "Cases": 3528,
-      "Deaths": 26
+      "Cases": 3652,
+      "Deaths": 27
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Gunnison",
     "totals": {
-      "Cases": 3387,
+      "Cases": 3440,
       "Deaths": 14
     },
     "daily": {
-      "Cases": 3,
+      "Cases": 1,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Hinsdale",
     "totals": {
-      "Cases": 129,
+      "Cases": 132,
       "Deaths": 0
     },
     "daily": {
-      "Cases": 3,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Huerfano",
     "totals": {
-      "Cases": 1443,
-      "Deaths": 31
+      "Cases": 1456,
+      "Deaths": 35
     },
     "daily": {
       "Cases": 0,
@@ -321,7 +321,7 @@
   {
     "c_ref": "Jackson",
     "totals": {
-      "Cases": 165,
+      "Cases": 167,
       "Deaths": 0
     },
     "daily": {
@@ -332,18 +332,18 @@
   {
     "c_ref": "Jefferson",
     "totals": {
-      "Cases": 124313,
-      "Deaths": 1328
+      "Cases": 129962,
+      "Deaths": 1353
     },
     "daily": {
-      "Cases": 149,
-      "Deaths": -1
+      "Cases": 93,
+      "Deaths": 0
     }
   },
   {
     "c_ref": "Kiowa",
     "totals": {
-      "Cases": 335,
+      "Cases": 336,
       "Deaths": 6
     },
     "daily": {
@@ -354,62 +354,62 @@
   {
     "c_ref": "Kit Carson",
     "totals": {
-      "Cases": 1610,
-      "Deaths": 34
+      "Cases": 1637,
+      "Deaths": 33
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "La Plata",
     "totals": {
-      "Cases": 12826,
-      "Deaths": 81
+      "Cases": 13017,
+      "Deaths": 87
     },
     "daily": {
-      "Cases": 14,
+      "Cases": 3,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Lake",
     "totals": {
-      "Cases": 1803,
+      "Cases": 1875,
       "Deaths": 2
     },
     "daily": {
-      "Cases": 4,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Larimer",
     "totals": {
-      "Cases": 78368,
-      "Deaths": 480
+      "Cases": 82617,
+      "Deaths": 501
     },
     "daily": {
-      "Cases": 157,
-      "Deaths": -3
+      "Cases": 67,
+      "Deaths": 0
     }
   },
   {
     "c_ref": "Las Animas",
     "totals": {
-      "Cases": 3604,
-      "Deaths": 40
+      "Cases": 3628,
+      "Deaths": 43
     },
     "daily": {
-      "Cases": 6,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Lincoln",
     "totals": {
-      "Cases": 2180,
+      "Cases": 2212,
       "Deaths": 9
     },
     "daily": {
@@ -420,85 +420,74 @@
   {
     "c_ref": "Logan",
     "totals": {
-      "Cases": 7440,
-      "Deaths": 107
+      "Cases": 7541,
+      "Deaths": 109
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Mesa",
     "totals": {
-      "Cases": 42625,
-      "Deaths": 534
+      "Cases": 43386,
+      "Deaths": 565
     },
     "daily": {
-      "Cases": 23,
+      "Cases": 6,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Mineral",
     "totals": {
-      "Cases": 233,
-      "Deaths": 1
+      "Cases": 239,
+      "Deaths": 2
     },
     "daily": {
-      "Cases": 3,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Moffat",
     "totals": {
-      "Cases": 3023,
-      "Deaths": 51
+      "Cases": 3081,
+      "Deaths": 52
     },
     "daily": {
-      "Cases": 5,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Montezuma",
     "totals": {
-      "Cases": 6186,
-      "Deaths": 75
+      "Cases": 6228,
+      "Deaths": 82
     },
     "daily": {
-      "Cases": 3,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Montrose",
     "totals": {
-      "Cases": 9315,
-      "Deaths": 158
+      "Cases": 9512,
+      "Deaths": 161
     },
     "daily": {
-      "Cases": 11,
+      "Cases": 4,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Morgan",
     "totals": {
-      "Cases": 5668,
-      "Deaths": 135
-    },
-    "daily": {
-      "Cases": 3,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Otero",
-    "totals": {
-      "Cases": 4290,
-      "Deaths": 127
+      "Cases": 5803,
+      "Deaths": 138
     },
     "daily": {
       "Cases": 1,
@@ -506,9 +495,20 @@
     }
   },
   {
+    "c_ref": "Otero",
+    "totals": {
+      "Cases": 4362,
+      "Deaths": 130
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
     "c_ref": "Ouray",
     "totals": {
-      "Cases": 861,
+      "Cases": 886,
       "Deaths": 6
     },
     "daily": {
@@ -519,19 +519,19 @@
   {
     "c_ref": "Park",
     "totals": {
-      "Cases": 2843,
+      "Cases": 2949,
       "Deaths": 20
     },
     "daily": {
-      "Cases": 3,
+      "Cases": 1,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Phillips",
     "totals": {
-      "Cases": 889,
-      "Deaths": 18
+      "Cases": 900,
+      "Deaths": 19
     },
     "daily": {
       "Cases": 0,
@@ -541,84 +541,84 @@
   {
     "c_ref": "Pitkin",
     "totals": {
-      "Cases": 6518,
-      "Deaths": 6
+      "Cases": 7097,
+      "Deaths": 7
     },
     "daily": {
-      "Cases": 10,
+      "Cases": 7,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Prowers",
     "totals": {
-      "Cases": 2639,
-      "Deaths": 48
+      "Cases": 2688,
+      "Deaths": 51
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Pueblo",
     "totals": {
-      "Cases": 46665,
-      "Deaths": 777
+      "Cases": 48726,
+      "Deaths": 801
     },
     "daily": {
-      "Cases": 49,
+      "Cases": 13,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Rio Blanco",
     "totals": {
-      "Cases": 1681,
+      "Cases": 1717,
       "Deaths": 13
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Rio Grande",
     "totals": {
-      "Cases": 2808,
+      "Cases": 2864,
       "Deaths": 46
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Routt",
     "totals": {
-      "Cases": 6448,
+      "Cases": 6580,
       "Deaths": 25
     },
     "daily": {
-      "Cases": 5,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Saguache",
     "totals": {
-      "Cases": 1190,
+      "Cases": 1207,
       "Deaths": 12
     },
     "daily": {
-      "Cases": 3,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "San Juan",
     "totals": {
-      "Cases": 202,
+      "Cases": 204,
       "Deaths": 0
     },
     "daily": {
@@ -629,19 +629,41 @@
   {
     "c_ref": "San Miguel",
     "totals": {
-      "Cases": 2282,
+      "Cases": 2399,
       "Deaths": 8
     },
     "daily": {
-      "Cases": 2,
+      "Cases": 0,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Sedgwick",
     "totals": {
-      "Cases": 484,
-      "Deaths": 9
+      "Cases": 487,
+      "Deaths": 10
+    },
+    "daily": {
+      "Cases": 0,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Summit",
+    "totals": {
+      "Cases": 10478,
+      "Deaths": 14
+    },
+    "daily": {
+      "Cases": 7,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Teller",
+    "totals": {
+      "Cases": 4956,
+      "Deaths": 57
     },
     "daily": {
       "Cases": 1,
@@ -649,31 +671,9 @@
     }
   },
   {
-    "c_ref": "Summit",
-    "totals": {
-      "Cases": 9872,
-      "Deaths": 14
-    },
-    "daily": {
-      "Cases": 11,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Teller",
-    "totals": {
-      "Cases": 4842,
-      "Deaths": 57
-    },
-    "daily": {
-      "Cases": 4,
-      "Deaths": 0
-    }
-  },
-  {
     "c_ref": "Unassigned",
     "totals": {
-      "Cases": 128,
+      "Cases": 140,
       "Deaths": 0
     },
     "daily": {
@@ -684,8 +684,8 @@
   {
     "c_ref": "Washington",
     "totals": {
-      "Cases": 1061,
-      "Deaths": 27
+      "Cases": 1070,
+      "Deaths": 29
     },
     "daily": {
       "Cases": 0,
@@ -695,22 +695,22 @@
   {
     "c_ref": "Weld",
     "totals": {
-      "Cases": 83837,
-      "Deaths": 696
+      "Cases": 87257,
+      "Deaths": 704
     },
     "daily": {
-      "Cases": 80,
+      "Cases": 28,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Yuma",
     "totals": {
-      "Cases": 1883,
+      "Cases": 1904,
       "Deaths": 23
     },
     "daily": {
-      "Cases": 6,
+      "Cases": 0,
       "Deaths": 0
     }
   }
