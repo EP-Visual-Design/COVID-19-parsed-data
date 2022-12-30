@@ -2,12 +2,12 @@
   {
     "c_ref": "Baden-Wurttemberg",
     "totals": {
-      "Cases": 35282,
+      "Cases": 35272,
       "Deaths": 1824
     },
     "daily": {
-      "Cases": 0,
-      "Deaths": 0
+      "Cases": 36,
+      "Deaths": 3
     }
   },
   {
@@ -24,30 +24,19 @@
   {
     "c_ref": "Berlin",
     "totals": {
-      "Cases": 7803,
+      "Cases": 7733,
       "Deaths": 211
     },
     "daily": {
-      "Cases": 71,
+      "Cases": 130,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Brandenburg",
     "totals": {
-      "Cases": 3387,
-      "Deaths": 170
-    },
-    "daily": {
-      "Cases": 13,
-      "Deaths": 0
-    }
-  },
-  {
-    "c_ref": "Bremen",
-    "totals": {
-      "Cases": 1648,
-      "Deaths": 49
+      "Cases": 3383,
+      "Deaths": 163
     },
     "daily": {
       "Cases": 9,
@@ -55,13 +44,24 @@
     }
   },
   {
+    "c_ref": "Bremen",
+    "totals": {
+      "Cases": 1636,
+      "Deaths": 49
+    },
+    "daily": {
+      "Cases": 10,
+      "Deaths": 0
+    }
+  },
+  {
     "c_ref": "Hamburg",
     "totals": {
-      "Cases": 5162,
+      "Cases": 5160,
       "Deaths": 259
     },
     "daily": {
-      "Cases": 3,
+      "Cases": 4,
       "Deaths": 0
     }
   },
@@ -79,11 +79,11 @@
   {
     "c_ref": "Mecklenburg-Vorpommern",
     "totals": {
-      "Cases": 792,
+      "Cases": 791,
       "Deaths": 20
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
@@ -91,7 +91,7 @@
     "c_ref": "Niedersachsen",
     "totals": {
       "Cases": 13136,
-      "Deaths": 620
+      "Deaths": 618
     },
     "daily": {
       "Cases": 39,
@@ -101,11 +101,11 @@
   {
     "c_ref": "Nordrhein-Westfalen",
     "totals": {
-      "Cases": 40434,
+      "Cases": 40372,
       "Deaths": 1663
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 216,
       "Deaths": 3
     }
   },
@@ -116,7 +116,7 @@
       "Deaths": 234
     },
     "daily": {
-      "Cases": 14,
+      "Cases": 20,
       "Deaths": 0
     }
   },
@@ -124,7 +124,7 @@
     "c_ref": "Saarland",
     "totals": {
       "Cases": 2776,
-      "Deaths": 171
+      "Deaths": 168
     },
     "daily": {
       "Cases": 2,
@@ -138,18 +138,18 @@
       "Deaths": 221
     },
     "daily": {
-      "Cases": 10,
+      "Cases": 26,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Sachsen-Anhalt",
     "totals": {
-      "Cases": 1840,
+      "Cases": 1839,
       "Deaths": 57
     },
     "daily": {
-      "Cases": 0,
+      "Cases": 21,
       "Deaths": 0
     }
   },
@@ -167,7 +167,7 @@
   {
     "c_ref": "Thuringen",
     "totals": {
-      "Cases": 3211,
+      "Cases": 3210,
       "Deaths": 178
     },
     "daily": {

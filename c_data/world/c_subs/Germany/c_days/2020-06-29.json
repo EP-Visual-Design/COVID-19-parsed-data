@@ -2,11 +2,11 @@
   {
     "c_ref": "Baden-Wurttemberg",
     "totals": {
-      "Cases": 35630,
-      "Deaths": 1830
+      "Cases": 35530,
+      "Deaths": 1829
     },
     "daily": {
-      "Cases": 89,
+      "Cases": 0,
       "Deaths": 0
     }
   },
@@ -14,7 +14,7 @@
     "c_ref": "Bayern",
     "totals": {
       "Cases": 48344,
-      "Deaths": 2594
+      "Deaths": 2592
     },
     "daily": {
       "Cases": 50,
@@ -24,19 +24,30 @@
   {
     "c_ref": "Berlin",
     "totals": {
-      "Cases": 8219,
-      "Deaths": 214
+      "Cases": 8176,
+      "Deaths": 213
     },
     "daily": {
-      "Cases": 44,
-      "Deaths": 1
+      "Cases": 8,
+      "Deaths": 0
     }
   },
   {
     "c_ref": "Brandenburg",
     "totals": {
-      "Cases": 3451,
-      "Deaths": 171
+      "Cases": 3419,
+      "Deaths": 165
+    },
+    "daily": {
+      "Cases": 2,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Bremen",
+    "totals": {
+      "Cases": 1661,
+      "Deaths": 50
     },
     "daily": {
       "Cases": 0,
@@ -44,24 +55,13 @@
     }
   },
   {
-    "c_ref": "Bremen",
-    "totals": {
-      "Cases": 1665,
-      "Deaths": 53
-    },
-    "daily": {
-      "Cases": 1,
-      "Deaths": 3
-    }
-  },
-  {
     "c_ref": "Hamburg",
     "totals": {
-      "Cases": 5200,
+      "Cases": 5194,
       "Deaths": 259
     },
     "daily": {
-      "Cases": 13,
+      "Cases": 16,
       "Deaths": 0
     }
   },
@@ -79,11 +79,11 @@
   {
     "c_ref": "Mecklenburg-Vorpommern",
     "totals": {
-      "Cases": 802,
+      "Cases": 801,
       "Deaths": 20
     },
     "daily": {
-      "Cases": 1,
+      "Cases": 0,
       "Deaths": 0
     }
   },
@@ -91,7 +91,7 @@
     "c_ref": "Niedersachsen",
     "totals": {
       "Cases": 13502,
-      "Deaths": 630
+      "Deaths": 628
     },
     "daily": {
       "Cases": 24,
@@ -116,7 +116,7 @@
       "Deaths": 235
     },
     "daily": {
-      "Cases": 8,
+      "Cases": 13,
       "Deaths": 0
     }
   },
@@ -145,11 +145,11 @@
   {
     "c_ref": "Sachsen-Anhalt",
     "totals": {
-      "Cases": 1873,
+      "Cases": 1869,
       "Deaths": 58
     },
     "daily": {
-      "Cases": 5,
+      "Cases": 1,
       "Deaths": 0
     }
   },

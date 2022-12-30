@@ -2,129 +2,52 @@
   {
     "c_ref": "Baden-Wurttemberg",
     "totals": {
-      "Cases": 500954,
-      "Deaths": 10261
+      "Cases": 500569,
+      "Deaths": 10243
     },
     "daily": {
-      "Cases": 136,
-      "Deaths": 18
+      "Cases": 141,
+      "Deaths": 8
     }
   },
   {
     "c_ref": "Bayern",
     "totals": {
-      "Cases": 647626,
-      "Deaths": 15263
+      "Cases": 647491,
+      "Deaths": 15256
     },
     "daily": {
-      "Cases": 99,
-      "Deaths": 5
+      "Cases": 132,
+      "Deaths": 7
     }
   },
   {
     "c_ref": "Berlin",
     "totals": {
-      "Cases": 180209,
-      "Deaths": 3560
+      "Cases": 180165,
+      "Deaths": 3559
     },
     "daily": {
-      "Cases": 36,
-      "Deaths": 1
+      "Cases": 33,
+      "Deaths": 2
     }
   },
   {
     "c_ref": "Brandenburg",
     "totals": {
-      "Cases": 108702,
-      "Deaths": 3806
+      "Cases": 108684,
+      "Deaths": 3803
     },
     "daily": {
-      "Cases": 18,
+      "Cases": 7,
       "Deaths": 3
     }
   },
   {
     "c_ref": "Bremen",
     "totals": {
-      "Cases": 27449,
-      "Deaths": 486
-    },
-    "daily": {
-      "Cases": 9,
-      "Deaths": 1
-    }
-  },
-  {
-    "c_ref": "Hamburg",
-    "totals": {
-      "Cases": 77370,
-      "Deaths": 1596
-    },
-    "daily": {
-      "Cases": 28,
-      "Deaths": 2
-    }
-  },
-  {
-    "c_ref": "Hessen",
-    "totals": {
-      "Cases": 290935,
-      "Deaths": 7521
-    },
-    "daily": {
-      "Cases": 87,
-      "Deaths": 6
-    }
-  },
-  {
-    "c_ref": "Mecklenburg-Vorpommern",
-    "totals": {
-      "Cases": 44156,
-      "Deaths": 1156
-    },
-    "daily": {
-      "Cases": 7,
-      "Deaths": 2
-    }
-  },
-  {
-    "c_ref": "Niedersachsen",
-    "totals": {
-      "Cases": 261055,
-      "Deaths": 5764
-    },
-    "daily": {
-      "Cases": 53,
-      "Deaths": 1
-    }
-  },
-  {
-    "c_ref": "Nordrhein-Westfalen",
-    "totals": {
-      "Cases": 816330,
-      "Deaths": 17151
-    },
-    "daily": {
-      "Cases": 223,
-      "Deaths": 13
-    }
-  },
-  {
-    "c_ref": "Rheinland-Pfalz",
-    "totals": {
-      "Cases": 155227,
-      "Deaths": 3890
-    },
-    "daily": {
-      "Cases": 44,
-      "Deaths": 1
-    }
-  },
-  {
-    "c_ref": "Saarland",
-    "totals": {
-      "Cases": 41486,
-      "Deaths": 1020
+      "Cases": 27440,
+      "Deaths": 485
     },
     "daily": {
       "Cases": 14,
@@ -132,21 +55,32 @@
     }
   },
   {
-    "c_ref": "Sachsen",
+    "c_ref": "Hamburg",
     "totals": {
-      "Cases": 285908,
-      "Deaths": 10081
+      "Cases": 77341,
+      "Deaths": 1594
     },
     "daily": {
-      "Cases": 66,
-      "Deaths": 5
+      "Cases": 27,
+      "Deaths": 4
     }
   },
   {
-    "c_ref": "Sachsen-Anhalt",
+    "c_ref": "Hessen",
     "totals": {
-      "Cases": 99283,
-      "Deaths": 3434
+      "Cases": 290848,
+      "Deaths": 7515
+    },
+    "daily": {
+      "Cases": 92,
+      "Deaths": 3
+    }
+  },
+  {
+    "c_ref": "Mecklenburg-Vorpommern",
+    "totals": {
+      "Cases": 44146,
+      "Deaths": 1154
     },
     "daily": {
       "Cases": 9,
@@ -154,24 +88,90 @@
     }
   },
   {
+    "c_ref": "Niedersachsen",
+    "totals": {
+      "Cases": 261002,
+      "Deaths": 5763
+    },
+    "daily": {
+      "Cases": 63,
+      "Deaths": 4
+    }
+  },
+  {
+    "c_ref": "Nordrhein-Westfalen",
+    "totals": {
+      "Cases": 816107,
+      "Deaths": 17138
+    },
+    "daily": {
+      "Cases": 176,
+      "Deaths": 15
+    }
+  },
+  {
+    "c_ref": "Rheinland-Pfalz",
+    "totals": {
+      "Cases": 155176,
+      "Deaths": 3889
+    },
+    "daily": {
+      "Cases": 45,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Saarland",
+    "totals": {
+      "Cases": 41472,
+      "Deaths": 1019
+    },
+    "daily": {
+      "Cases": 12,
+      "Deaths": 0
+    }
+  },
+  {
+    "c_ref": "Sachsen",
+    "totals": {
+      "Cases": 285819,
+      "Deaths": 10076
+    },
+    "daily": {
+      "Cases": 28,
+      "Deaths": 6
+    }
+  },
+  {
+    "c_ref": "Sachsen-Anhalt",
+    "totals": {
+      "Cases": 99229,
+      "Deaths": 3426
+    },
+    "daily": {
+      "Cases": 1,
+      "Deaths": 0
+    }
+  },
+  {
     "c_ref": "Schleswig-Holstein",
     "totals": {
-      "Cases": 63906,
+      "Cases": 63889,
       "Deaths": 1621
     },
     "daily": {
-      "Cases": 17,
+      "Cases": 13,
       "Deaths": 0
     }
   },
   {
     "c_ref": "Thuringen",
     "totals": {
-      "Cases": 128776,
-      "Deaths": 4335
+      "Cases": 128763,
+      "Deaths": 4334
     },
     "daily": {
-      "Cases": 13,
+      "Cases": 15,
       "Deaths": 1
     }
   },
